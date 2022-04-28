@@ -1,0 +1,1157 @@
+,START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*,DISTANCE,Year,Time Cat
+0,2016-01-01 21:11:00,1/1/2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,Long Trip,2020,Medium Trip
+1,2016-01-02 01:25:00,1/2/2016 1:37,Business,Fort Pierce,Fort Pierce,5.0,,Short Trip,2020,Medium Trip
+2,2016-01-02 20:25:00,1/2/2016 20:38,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,Short Trip,2020,Short Trip
+3,2016-01-05 17:31:00,1/5/2016 17:45,Business,Fort Pierce,Fort Pierce,4.7,Meeting,Short Trip,2020,Short Trip
+4,2016-01-06 14:42:00,1/6/2016 15:49,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,Long Trip,2020,Long Trip
+5,2016-01-06 17:15:00,1/6/2016 17:19,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,Short Trip,2020,Short Trip
+6,2016-01-06 17:30:00,1/6/2016 17:35,Business,West Palm Beach,Palm Beach,7.1,Meeting,Long Trip,2020,Medium Trip
+7,2016-01-07 13:27:00,1/7/2016 13:33,Business,Cary,Cary,0.8,Meeting,Short Trip,2020,Short Trip
+8,2016-01-10 08:05:00,1/10/2016 8:25,Business,Cary,Morrisville,8.3,Meeting,Long Trip,2020,Medium Trip
+9,2016-01-10 12:17:00,1/10/2016 12:44,Business,Jamaica,New York,16.5,Customer Visit,Long Trip,2020,Long Trip
+10,2016-01-10 15:08:00,1/10/2016 15:51,Business,New York,Queens,10.8,Meeting,Long Trip,2020,Long Trip
+11,2016-01-10 18:18:00,1/10/2016 18:53,Business,Elmhurst,New York,7.5,Meeting,Long Trip,2020,Medium Trip
+12,2016-01-10 19:12:00,1/10/2016 19:32,Business,Midtown,East Harlem,6.2,Meeting,Long Trip,2020,Medium Trip
+13,2016-01-11 08:55:00,1/11/2016 9:21,Business,East Harlem,NoMad,6.4,Temporary Site,Long Trip,2020,Medium Trip
+14,2016-01-11 11:56:00,1/11/2016 12:03,Business,Flatiron District,Midtown,1.6,Errand/Supplies,Short Trip,2020,Short Trip
+15,2016-01-11 13:32:00,1/11/2016 13:46,Business,Midtown,Midtown East,1.7,Meal/Entertain,Short Trip,2020,Short Trip
+16,2016-01-11 14:30:00,1/11/2016 14:43,Business,Midtown East,Midtown,1.9,Meal/Entertain,Short Trip,2020,Short Trip
+17,2016-01-12 12:33:00,1/12/2016 12:49,Business,Midtown,Hudson Square,1.9,Meal/Entertain,Short Trip,2020,Short Trip
+18,2016-01-12 12:53:00,1/12/2016 13:09,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,Short Trip,2020,Short Trip
+19,2016-01-12 14:42:00,1/12/2016 14:56,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,Short Trip,2020,Short Trip
+20,2016-01-12 15:13:00,1/12/2016 15:28,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,Short Trip,2020,Short Trip
+21,2016-01-12 15:42:00,1/12/2016 15:54,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,Short Trip,2020,Short Trip
+22,2016-01-12 16:02:00,1/12/2016 17:00,Business,New York,Queens County,15.1,Meeting,Long Trip,2020,Long Trip
+23,2016-01-13 13:54:00,1/13/2016 14:07,Business,Downtown,Gulfton,11.2,Meeting,Long Trip,2020,Long Trip
+24,2016-01-13 15:00:00,1/13/2016 15:28,Business,Gulfton,Downtown,11.8,Meeting,Long Trip,2020,Long Trip
+25,2016-01-14 16:29:00,1/14/2016 17:05,Business,Houston,Houston,21.9,Customer Visit,Long Trip,2020,Long Trip
+26,2016-01-14 21:39:00,1/14/2016 21:45,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,Short Trip,2020,Short Trip
+27,2016-01-15 00:41:00,1/15/2016 1:01,Business,Morrisville,Cary,8.0,Errand/Supplies,Long Trip,2020,Medium Trip
+28,2016-01-15 11:43:00,1/15/2016 12:03,Business,Cary,Durham,10.4,Meal/Entertain,Long Trip,2020,Long Trip
+29,2016-01-15 13:26:00,1/15/2016 13:44,Business,Durham,Cary,10.4,Meal/Entertain,Long Trip,2020,Long Trip
+30,2016-01-18 14:55:00,1/18/2016 15:06,Business,Cary,Cary,4.8,Meal/Entertain,Short Trip,2020,Short Trip
+31,2016-01-18 16:13:00,1/18/2016 16:24,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,Short Trip,2020,Short Trip
+32,2016-01-19 09:09:00,1/19/2016 9:23,Business,Whitebridge,Lake Wellingborough,7.2,,Long Trip,2020,Medium Trip
+33,2016-01-19 10:55:00,1/19/2016 11:09,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,Long Trip,2020,Medium Trip
+34,2016-01-20 10:36:00,1/20/2016 11:11,Business,Cary,Raleigh,17.1,Meeting,Long Trip,2020,Long Trip
+35,2016-01-20 11:48:00,1/20/2016 12:19,Business,Fayetteville Street,Umstead,15.1,Meeting,Long Trip,2020,Long Trip
+36,2016-01-20 13:25:00,1/20/2016 14:19,Business,Raleigh,Cary,40.2,Customer Visit,Long Trip,2020,Long Trip
+37,2016-01-21 14:25:00,1/21/2016 14:29,Business,Cary,Cary,1.6,Errand/Supplies,Short Trip,2020,Short Trip
+38,2016-01-21 14:43:00,1/21/2016 14:51,Business,Cary,Cary,2.4,Meal/Entertain,Short Trip,2020,Short Trip
+39,2016-01-21 16:01:00,1/21/2016 16:06,Business,Cary,Cary,1.0,Meal/Entertain,Short Trip,2020,Short Trip
+40,2016-01-26 10:41:00,1/26/2016 10:50,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,Short Trip,2020,Short Trip
+41,2016-01-26 12:33:00,1/26/2016 12:41,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,Short Trip,2020,Short Trip
+42,2016-01-26 16:24:00,1/26/2016 16:32,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,Short Trip,2020,Short Trip
+43,2016-01-26 17:17:00,1/26/2016 17:22,Business,Cary,Cary,1.4,Errand/Supplies,Short Trip,2020,Short Trip
+44,2016-01-26 17:27:00,1/26/2016 17:29,Business,Cary,Cary,0.5,Errand/Supplies,Short Trip,2020,Short Trip
+45,2016-01-27 09:24:00,1/27/2016 9:31,Business,Cary,Cary,1.8,Meeting,Short Trip,2020,Short Trip
+46,2016-01-27 10:19:00,1/27/2016 10:48,Business,Cary,Raleigh,18.7,Customer Visit,Long Trip,2020,Long Trip
+47,2016-01-27 12:34:00,1/27/2016 12:44,Business,Fairmont,Meredith Townes,3.4,Customer Visit,Short Trip,2020,Short Trip
+48,2016-01-27 14:05:00,1/27/2016 14:13,Business,Raleigh,Raleigh,2.7,Customer Visit,Short Trip,2020,Short Trip
+49,2016-01-27 14:46:00,1/27/2016 15:08,Business,Raleigh,Cary,12.9,Customer Visit,Long Trip,2020,Long Trip
+50,2016-01-28 12:28:00,1/28/2016 13:00,Business,Cary,Raleigh,19.0,Temporary Site,Long Trip,2020,Long Trip
+51,2016-01-28 15:11:00,1/28/2016 15:31,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,Long Trip,2020,Long Trip
+52,2016-01-28 16:21:00,1/28/2016 16:51,Business,Raleigh,Cary,15.7,Meeting,Long Trip,2020,Long Trip
+53,2016-01-29 09:31:00,1/29/2016 9:45,Business,Cary,Cary,4.6,Customer Visit,Short Trip,2020,Short Trip
+54,2016-01-29 10:56:00,1/29/2016 11:07,Business,Cary,Cary,5.2,Meeting,Long Trip,2020,Medium Trip
+55,2016-01-29 11:43:00,1/29/2016 12:03,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+56,2016-01-29 13:24:00,1/29/2016 13:47,Business,Durham,Cary,10.1,Meeting,Long Trip,2020,Long Trip
+57,2016-01-29 18:31:00,1/29/2016 18:52,Business,Cary,Apex,5.8,Errand/Supplies,Long Trip,2020,Medium Trip
+58,2016-01-29 21:21:00,1/29/2016 21:40,Business,Apex,Cary,5.5,Meal/Entertain,Long Trip,2020,Medium Trip
+59,2016-01-30 16:21:00,1/30/2016 16:33,Business,Cary,Apex,5.7,Errand/Supplies,Long Trip,2020,Medium Trip
+60,2016-01-30 18:09:00,1/30/2016 18:24,Business,Apex,Cary,5.7,Customer Visit,Long Trip,2020,Medium Trip
+61,2016-02-01 10:35:00,2/1/2016 11:15,Business,Cary,Chapel Hill,19.4,Customer Visit,Long Trip,2020,Long Trip
+62,2016-02-01 12:10:00,2/1/2016 12:43,Business,Chapel Hill,Cary,23.3,Customer Visit,Long Trip,2020,Long Trip
+63,2016-02-01 12:56:00,2/1/2016 13:07,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,Short Trip,2020,Short Trip
+64,2016-02-02 13:04:00,2/2/2016 13:23,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,Long Trip,2020,Medium Trip
+65,2016-02-02 13:51:00,2/2/2016 14:06,Business,Cary,Cary,6.0,Errand/Supplies,Long Trip,2020,Medium Trip
+66,2016-02-02 14:38:00,2/2/2016 14:42,Business,Cary,Cary,1.6,Errand/Supplies,Short Trip,2020,Short Trip
+67,2016-02-04 08:40:00,2/4/2016 9:01,Business,Cary,Morrisville,5.2,Errand/Supplies,Long Trip,2020,Medium Trip
+68,2016-02-04 09:37:00,2/4/2016 10:09,Business,Morrisville,Cary,9.7,Meal/Entertain,Long Trip,2020,Medium Trip
+69,2016-02-04 10:26:00,2/4/2016 10:32,Business,Cary,Cary,1.6,Meal/Entertain,Short Trip,2020,Short Trip
+70,2016-02-04 15:59:00,2/4/2016 16:03,Business,Cary,Cary,1.1,Meal/Entertain,Short Trip,2020,Short Trip
+71,2016-02-04 16:35:00,2/4/2016 16:39,Business,Cary,Cary,1.6,Meal/Entertain,Short Trip,2020,Short Trip
+72,2016-02-04 18:04:00,2/4/2016 18:31,Business,Whitebridge,Macgregor Downs,9.0,Meeting,Long Trip,2020,Medium Trip
+73,2016-02-04 20:36:00,2/4/2016 20:55,Business,Cary,Cary,7.7,Meeting,Long Trip,2020,Medium Trip
+74,2016-02-05 11:47:00,2/5/2016 12:07,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+75,2016-02-05 13:22:00,2/5/2016 13:41,Business,Durham,Cary,10.4,Meeting,Long Trip,2020,Long Trip
+76,2016-02-06 16:20:00,2/6/2016 16:53,Business,Cary,Raleigh,11.4,Between Offices,Long Trip,2020,Long Trip
+77,2016-02-06 18:57:00,2/6/2016 19:21,Business,Raleigh,Cary,9.0,Errand/Supplies,Long Trip,2020,Medium Trip
+78,2016-02-06 19:28:00,2/6/2016 19:37,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,Short Trip,2020,Short Trip
+79,2016-02-07 16:49:00,2/7/2016 17:01,Business,Cary,Apex,5.6,Errand/Supplies,Long Trip,2020,Medium Trip
+80,2016-02-07 18:03:00,2/7/2016 18:17,Business,Apex,Cary,5.7,Customer Visit,Long Trip,2020,Medium Trip
+81,2016-02-07 18:39:00,2/7/2016 18:53,Business,Cary,Morrisville,6.1,Temporary Site,Long Trip,2020,Medium Trip
+82,2016-02-07 20:22:00,2/7/2016 20:40,Business,Morrisville,Cary,6.1,Meeting,Long Trip,2020,Medium Trip
+83,2016-02-08 12:57:00,2/8/2016 13:08,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,Short Trip,2020,Short Trip
+84,2016-02-08 14:00:00,2/8/2016 14:10,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,Short Trip,2020,Short Trip
+85,2016-02-09 10:54:00,2/9/2016 11:07,Personal,Whitebridge,Northwoods,5.3,,Long Trip,2020,Medium Trip
+86,2016-02-09 11:43:00,2/9/2016 11:50,Personal,Northwoods,Tanglewood,3.0,,Short Trip,2020,Short Trip
+87,2016-02-09 13:36:00,2/9/2016 13:52,Personal,Tanglewood,Preston,5.1,,Long Trip,2020,Medium Trip
+88,2016-02-09 13:58:00,2/9/2016 14:02,Personal,Preston,Whitebridge,1.5,,Short Trip,2020,Short Trip
+89,2016-02-09 18:55:00,2/9/2016 19:11,Business,Cary,Morrisville,6.1,,Long Trip,2020,Medium Trip
+90,2016-02-09 20:24:00,2/9/2016 20:40,Business,Morrisville,Cary,6.1,Meal/Entertain,Long Trip,2020,Medium Trip
+91,2016-02-11 16:28:00,2/11/2016 17:10,Business,Cary,Raleigh,17.3,Meal/Entertain,Long Trip,2020,Long Trip
+92,2016-02-11 17:49:00,2/11/2016 18:10,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,Long Trip,2020,Medium Trip
+93,2016-02-11 18:24:00,2/11/2016 18:46,Business,Raleigh,Morrisville,13.5,Temporary Site,Long Trip,2020,Long Trip
+94,2016-02-11 20:36:00,2/11/2016 20:51,Business,Morrisville,Cary,6.1,Temporary Site,Long Trip,2020,Medium Trip
+95,2016-02-12 08:21:00,2/12/2016 8:42,Business,Cary,Durham,8.5,Temporary Site,Long Trip,2020,Medium Trip
+96,2016-02-12 10:45:00,2/12/2016 10:52,Business,Durham,Morrisville,2.6,Temporary Site,Short Trip,2020,Short Trip
+97,2016-02-12 11:14:00,2/12/2016 11:35,Business,Morrisville,Raleigh,17.0,Customer Visit,Long Trip,2020,Long Trip
+98,2016-02-12 13:02:00,2/12/2016 13:36,Business,Raleigh,Cary,18.0,Meeting,Long Trip,2020,Long Trip
+99,2016-02-12 14:49:00,2/12/2016 15:06,Business,Cary,Morrisville,8.4,Meeting,Long Trip,2020,Medium Trip
+100,2016-02-12 15:33:00,2/12/2016 16:06,Business,Morrisville,Cary,11.5,Customer Visit,Long Trip,2020,Long Trip
+101,2016-02-13 14:21:00,2/13/2016 14:41,Business,Cary,Morrisville,8.9,Meeting,Long Trip,2020,Medium Trip
+102,2016-02-13 23:45:00,2/14/2016 0:01,Personal,East Elmhurst,Jackson Heights,2.7,,Short Trip,2020,Short Trip
+103,2016-02-14 00:50:00,2/14/2016 1:00,Personal,Jackson Heights,East Elmhurst,1.8,,Short Trip,2020,Short Trip
+104,2016-02-14 14:07:00,2/14/2016 14:40,Business,East Elmhurst,New York,8.1,Meeting,Long Trip,2020,Medium Trip
+105,2016-02-14 14:46:00,2/14/2016 15:03,Business,Midtown,Midtown West,2.0,Meeting,Short Trip,2020,Short Trip
+106,2016-02-14 16:35:00,2/14/2016 17:02,Business,New York,Long Island City,13.0,Meeting,Long Trip,2020,Long Trip
+107,2016-02-14 17:06:00,2/14/2016 17:29,Business,Long Island City,Jamaica,13.9,Meeting,Long Trip,2020,Long Trip
+108,2016-02-16 03:21:00,2/16/2016 4:13,Business,Katunayaka,Unknown Location,43.7,Customer Visit,Long Trip,2020,Long Trip
+109,2016-02-16 08:29:00,2/16/2016 9:34,Business,Unknown Location,Colombo,14.1,,Long Trip,2020,Long Trip
+110,2016-02-16 10:31:00,2/16/2016 10:41,Business,Colombo,Colombo,2.6,,Short Trip,2020,Short Trip
+111,2016-02-16 11:32:00,2/16/2016 12:02,Business,Colombo,Colombo,4.5,,Short Trip,2020,Short Trip
+112,2016-02-16 12:39:00,2/16/2016 12:42,Business,Colombo,Colombo,1.7,,Short Trip,2020,Short Trip
+113,2016-02-16 13:43:00,2/16/2016 13:55,Business,Colombo,Colombo,1.8,Temporary Site,Short Trip,2020,Short Trip
+114,2016-02-16 16:34:00,2/16/2016 17:10,Business,Colombo,Colombo,6.0,,Long Trip,2020,Medium Trip
+115,2016-02-16 17:17:00,2/16/2016 17:26,Business,Colombo,Nugegoda,1.1,Meal/Entertain,Short Trip,2020,Short Trip
+116,2016-02-16 17:40:00,2/16/2016 17:44,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,Short Trip,2020,Short Trip
+117,2016-02-17 13:18:00,2/17/2016 14:04,Business,Unknown Location,Colombo,14.7,Temporary Site,Long Trip,2020,Long Trip
+118,2016-02-17 15:17:00,2/17/2016 15:22,Business,Colombo,Colombo,1.7,Meal/Entertain,Short Trip,2020,Short Trip
+119,2016-02-17 15:33:00,2/17/2016 16:17,Business,Colombo,Katunayaka,21.4,Temporary Site,Long Trip,2020,Long Trip
+120,2016-02-17 16:38:00,2/17/2016 16:43,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,Short Trip,2020,Short Trip
+121,2016-02-18 08:19:00,2/18/2016 8:27,Business,Unknown Location,Unknown Location,23.5,Temporary Site,Long Trip,2020,Long Trip
+122,2016-02-18 14:03:00,2/18/2016 14:45,Business,Unknown Location,Islamabad,12.7,Temporary Site,Long Trip,2020,Long Trip
+123,2016-02-18 15:16:00,2/18/2016 15:31,Business,Islamabad,Unknown Location,6.0,Temporary Site,Long Trip,2020,Medium Trip
+124,2016-02-18 18:44:00,2/18/2016 18:58,Business,Unknown Location,Islamabad,5.2,Customer Visit,Long Trip,2020,Medium Trip
+125,2016-02-18 19:27:00,2/18/2016 20:08,Business,Islamabad,Unknown Location,10.0,Meeting,Long Trip,2020,Medium Trip
+126,2016-02-19 09:02:00,2/19/2016 9:14,Business,Unknown Location,Unknown Location,18.3,Meeting,Long Trip,2020,Long Trip
+127,2016-02-19 09:21:00,2/19/2016 9:51,Business,Unknown Location,Unknown Location,11.2,Meeting,Long Trip,2020,Long Trip
+128,2016-02-19 10:21:00,2/19/2016 10:48,Business,Unknown Location,Islamabad,7.6,Meeting,Long Trip,2020,Medium Trip
+129,2016-02-19 11:20:00,2/19/2016 11:26,Personal,Islamabad,Islamabad,1.5,,Short Trip,2020,Short Trip
+130,2016-02-19 11:45:00,2/19/2016 11:50,Personal,Islamabad,Islamabad,1.0,,Short Trip,2020,Short Trip
+131,2016-02-19 12:09:00,2/19/2016 12:27,Business,Islamabad,Unknown Location,7.3,Temporary Site,Long Trip,2020,Medium Trip
+132,2016-02-19 16:26:00,2/19/2016 16:45,Business,Unknown Location,Islamabad,3.5,,Short Trip,2020,Short Trip
+133,2016-02-19 17:09:00,2/19/2016 17:20,Business,Islamabad,Islamabad,4.2,,Short Trip,2020,Short Trip
+134,2016-02-19 20:08:00,2/19/2016 20:30,Personal,Islamabad,Unknown Location,13.6,,Long Trip,2020,Long Trip
+135,2016-02-19 20:34:00,2/19/2016 20:51,Personal,Unknown Location,Unknown Location,2.5,,Short Trip,2020,Short Trip
+136,2016-02-20 07:59:00,2/20/2016 8:32,Personal,Unknown Location,Islamabad,14.4,,Long Trip,2020,Long Trip
+137,2016-02-20 10:48:00,2/20/2016 10:56,Personal,Islamabad,Islamabad,3.0,,Short Trip,2020,Short Trip
+138,2016-02-20 11:45:00,2/20/2016 11:53,Personal,Islamabad,Islamabad,1.5,,Short Trip,2020,Short Trip
+139,2016-02-20 12:41:00,2/20/2016 13:17,Business,Islamabad,R?walpindi,18.4,,Long Trip,2020,Long Trip
+140,2016-02-20 14:50:00,2/20/2016 15:54,Business,R?walpindi,R?walpindi,23.1,Meeting,Long Trip,2020,Long Trip
+141,2016-02-20 16:59:00,2/20/2016 17:54,Personal,R?walpindi,Unknown Location,16.5,,Long Trip,2020,Long Trip
+142,2016-02-20 18:00:00,2/20/2016 18:03,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,Short Trip,2020,Short Trip
+143,2016-02-20 19:28:00,2/20/2016 19:49,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,Long Trip,2020,Medium Trip
+144,2016-02-21 09:07:00,2/21/2016 9:46,Business,Unknown Location,Islamabad,14.5,,Long Trip,2020,Long Trip
+145,2016-02-21 11:39:00,2/21/2016 11:43,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,Short Trip,2020,Short Trip
+146,2016-02-21 11:47:00,2/21/2016 12:01,Business,Islamabad,Islamabad,4.6,Errand/Supplies,Short Trip,2020,Short Trip
+147,2016-02-21 12:13:00,2/21/2016 12:35,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,Long Trip,2020,Medium Trip
+148,2016-02-21 12:51:00,2/21/2016 13:12,Business,Unknown Location,Unknown Location,8.3,Temporary Site,Long Trip,2020,Medium Trip
+149,2016-02-21 13:33:00,2/21/2016 14:30,Business,Unknown Location,Unknown Location,22.7,Temporary Site,Long Trip,2020,Long Trip
+150,2016-02-21 14:36:00,2/21/2016 15:03,Business,Unknown Location,Islamabad,13.0,Temporary Site,Long Trip,2020,Long Trip
+151,2016-02-21 15:14:00,2/21/2016 15:31,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,Long Trip,2020,Medium Trip
+152,2016-02-21 15:36:00,2/21/2016 15:41,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,Short Trip,2020,Short Trip
+153,2016-02-21 16:04:00,2/21/2016 16:32,Business,Unknown Location,Unknown Location,9.7,,Long Trip,2020,Medium Trip
+154,2016-02-21 23:15:00,2/21/2016 23:52,Business,Unknown Location,R?walpindi,20.0,Meeting,Long Trip,2020,Long Trip
+155,2016-02-22 21:54:00,2/22/2016 22:09,Business,Morrisville,Cary,8.1,Customer Visit,Long Trip,2020,Medium Trip
+156,2016-02-24 14:30:00,2/24/2016 14:35,Business,Whitebridge,Preston,1.5,,Short Trip,2020,Short Trip
+157,2016-02-24 15:19:00,2/24/2016 15:25,Business,Preston,Whitebridge,1.7,Errand/Supplies,Short Trip,2020,Short Trip
+158,2016-02-25 16:27:00,2/25/2016 16:35,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+159,2016-02-25 16:47:00,2/25/2016 17:02,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,Short Trip,2020,Short Trip
+160,2016-02-25 17:16:00,2/25/2016 17:36,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,Long Trip,2020,Medium Trip
+161,2016-02-25 18:22:00,2/25/2016 18:39,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,Long Trip,2020,Medium Trip
+162,2016-02-26 09:06:00,2/26/2016 9:29,Business,Whitebridge,Westpark Place,6.3,,Long Trip,2020,Medium Trip
+163,2016-02-26 11:05:00,2/26/2016 11:11,Personal,Westpark Place,Whitebridge,1.7,,Short Trip,2020,Short Trip
+164,2016-02-26 11:35:00,2/26/2016 11:59,Business,Cary,Durham,10.6,Meeting,Long Trip,2020,Long Trip
+165,2016-02-26 13:01:00,2/26/2016 13:24,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+166,2016-02-26 14:38:00,2/26/2016 14:46,Personal,Whitebridge,Westpark Place,1.9,,Short Trip,2020,Short Trip
+167,2016-02-26 15:00:00,2/26/2016 15:18,Personal,Westpark Place,Hazelwood,4.2,,Short Trip,2020,Short Trip
+168,2016-02-26 17:01:00,2/26/2016 17:12,Personal,Hazelwood,Whitebridge,2.0,,Short Trip,2020,Short Trip
+169,2016-02-28 05:22:00,2/28/2016 5:38,Business,Whitebridge,Waverly Place,7.7,Meeting,Long Trip,2020,Medium Trip
+170,2016-02-28 09:26:00,2/28/2016 9:42,Business,Waverly Place,Whitebridge,6.8,Meeting,Long Trip,2020,Medium Trip
+171,2016-02-29 11:07:00,2/29/2016 11:14,Personal,Whitebridge,Westpark Place,2.1,,Short Trip,2020,Short Trip
+172,2016-02-29 11:30:00,2/29/2016 11:40,Business,Cary,Apex,3.8,Meeting,Short Trip,2020,Short Trip
+173,2016-02-29 12:36:00,2/29/2016 12:48,Business,Apex,Cary,5.6,Meeting,Long Trip,2020,Medium Trip
+174,2016-02-29 14:55:00,2/29/2016 15:03,Business,Whitebridge,Hazelwood,2.6,,Short Trip,2020,Short Trip
+175,2016-02-29 16:40:00,2/29/2016 17:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,Long Trip,2020,Medium Trip
+176,2016-03-01 18:47:00,3/1/2016 19:10,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,Long Trip,2020,Medium Trip
+177,2016-03-01 21:27:00,3/1/2016 21:45,Business,Wayne Ridge,Whitebridge,8.0,Meeting,Long Trip,2020,Medium Trip
+178,2016-03-03 09:45:00,3/3/2016 9:52,Personal,Whitebridge,Westpark Place,2.2,,Short Trip,2020,Short Trip
+179,2016-03-03 11:04:00,3/3/2016 11:10,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,Short Trip,2020,Short Trip
+180,2016-03-03 14:44:00,3/3/2016 14:58,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,Long Trip,2020,Medium Trip
+181,2016-03-03 15:27:00,3/3/2016 15:48,Business,Cary,Raleigh,7.6,Customer Visit,Long Trip,2020,Medium Trip
+182,2016-03-03 16:02:00,3/3/2016 16:42,Business,Raleigh,Cary,17.3,Meeting,Long Trip,2020,Long Trip
+183,2016-03-04 07:47:00,3/4/2016 8:06,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+184,2016-03-04 09:46:00,3/4/2016 10:03,Business,Durham,Cary,9.9,Customer Visit,Long Trip,2020,Medium Trip
+185,2016-03-04 11:46:00,3/4/2016 12:06,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+186,2016-03-04 13:03:00,3/4/2016 13:25,Business,Durham,Cary,10.9,Meeting,Long Trip,2020,Long Trip
+187,2016-03-04 13:40:00,3/4/2016 14:09,Business,Cary,Raleigh,15.7,Customer Visit,Long Trip,2020,Long Trip
+188,2016-03-04 15:56:00,3/4/2016 16:08,Business,Raleigh,Raleigh,4.9,Meal/Entertain,Short Trip,2020,Short Trip
+189,2016-03-04 16:16:00,3/4/2016 16:22,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,Short Trip,2020,Short Trip
+190,2016-03-04 16:43:00,3/4/2016 17:12,Business,Raleigh,Cary,13.5,Meeting,Long Trip,2020,Long Trip
+191,2016-03-04 19:02:00,3/4/2016 19:08,Business,Cary,Morrisville,1.9,Temporary Site,Short Trip,2020,Short Trip
+192,2016-03-04 19:16:00,3/4/2016 19:25,Business,Morrisville,Cary,2.0,Meal/Entertain,Short Trip,2020,Short Trip
+193,2016-03-05 11:44:00,3/5/2016 11:59,Business,Cary,Morrisville,6.5,Meal/Entertain,Long Trip,2020,Medium Trip
+194,2016-03-05 12:57:00,3/5/2016 13:12,Personal,Weston,Weston,4.2,,Short Trip,2020,Short Trip
+195,2016-03-05 14:08:00,3/5/2016 14:18,Personal,Morrisville,Cary,3.5,,Short Trip,2020,Short Trip
+196,2016-03-05 14:39:00,3/5/2016 15:01,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,Long Trip,2020,Medium Trip
+197,2016-03-05 16:52:00,3/5/2016 17:13,Business,Cary,Morrisville,7.8,Meal/Entertain,Long Trip,2020,Medium Trip
+198,2016-03-05 17:23:00,3/5/2016 17:34,Business,Morrisville,Cary,3.9,Meal/Entertain,Short Trip,2020,Short Trip
+199,2016-03-07 09:10:00,3/7/2016 9:20,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,Short Trip,2020,Short Trip
+200,2016-03-07 09:23:00,3/7/2016 9:47,Business,Cary,Raleigh,12.4,Customer Visit,Long Trip,2020,Long Trip
+201,2016-03-07 12:10:00,3/7/2016 12:26,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,Long Trip,2020,Medium Trip
+202,2016-03-07 13:57:00,3/7/2016 14:18,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,Long Trip,2020,Medium Trip
+203,2016-03-07 15:19:00,3/7/2016 15:45,Business,Raleigh,Cary,11.9,Between Offices,Long Trip,2020,Long Trip
+204,2016-03-08 14:38:00,3/8/2016 14:55,Business,Whitebridge,Waverly Place,7.2,Between Offices,Long Trip,2020,Medium Trip
+205,2016-03-08 15:35:00,3/8/2016 16:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,Long Trip,2020,Medium Trip
+206,2016-03-08 16:13:00,3/8/2016 16:25,Personal,Whitebridge,Whitebridge,1.6,,Short Trip,2020,Short Trip
+207,2016-03-10 03:36:00,3/10/2016 3:53,Business,Cary,Morrisville,8.4,Meeting,Long Trip,2020,Medium Trip
+208,2016-03-10 10:08:00,3/10/2016 10:37,Business,East Austin,West University,12.8,Meeting,Long Trip,2020,Long Trip
+209,2016-03-10 14:39:00,3/10/2016 14:55,Business,West University,South Congress,2.3,,Short Trip,2020,Short Trip
+210,2016-03-10 16:18:00,3/10/2016 16:28,Business,South Congress,Arts District,1.6,,Short Trip,2020,Short Trip
+211,2016-03-11 09:47:00,3/11/2016 9:59,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,Short Trip,2020,Short Trip
+212,2016-03-11 10:29:00,3/11/2016 10:36,Business,Congress Ave District,Downtown,0.8,,Short Trip,2020,Short Trip
+213,2016-03-11 11:57:00,3/11/2016 12:04,Business,Downtown,Red River District,1.2,,Short Trip,2020,Short Trip
+214,2016-03-11 13:43:00,3/11/2016 13:51,Business,Red River District,Downtown,1.0,,Short Trip,2020,Short Trip
+215,2016-03-11 19:21:00,3/11/2016 19:35,Business,South Congress,The Drag,2.1,,Short Trip,2020,Short Trip
+216,2016-03-12 09:13:00,3/12/2016 9:22,Business,The Drag,South Congress,2.2,,Short Trip,2020,Short Trip
+217,2016-03-12 18:27:00,3/12/2016 18:37,Personal,South Congress,The Drag,1.9,,Short Trip,2020,Short Trip
+218,2016-03-13 09:07:00,3/13/2016 9:37,Business,The Drag,Convention Center District,5.7,Meal/Entertain,Long Trip,2020,Medium Trip
+219,2016-03-13 18:23:00,3/13/2016 18:43,Business,South Congress,North Austin,8.4,Meal/Entertain,Long Trip,2020,Medium Trip
+220,2016-03-13 20:07:00,3/13/2016 20:28,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,Long Trip,2020,Medium Trip
+221,2016-03-13 20:39:00,3/13/2016 20:58,Business,The Drag,North Austin,10.5,Meal/Entertain,Long Trip,2020,Long Trip
+222,2016-03-13 21:11:00,3/13/2016 21:23,Business,North Austin,Coxville,7.2,Meal/Entertain,Long Trip,2020,Medium Trip
+223,2016-03-13 22:19:00,3/13/2016 22:39,Business,Coxville,The Drag,12.5,,Long Trip,2020,Long Trip
+224,2016-03-14 08:34:00,3/14/2016 8:49,Business,The Drag,South Congress,2.0,Errand/Supplies,Short Trip,2020,Short Trip
+225,2016-03-14 18:39:00,3/14/2016 18:55,Business,South Congress,The Drag,2.7,,Short Trip,2020,Short Trip
+226,2016-03-15 08:45:00,3/15/2016 8:57,Business,The Drag,Convention Center District,2.0,Meal/Entertain,Short Trip,2020,Short Trip
+227,2016-03-15 20:48:00,3/15/2016 21:01,Business,Downtown,The Drag,2.8,Meal/Entertain,Short Trip,2020,Short Trip
+228,2016-03-16 11:34:00,3/16/2016 11:45,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,Short Trip,2020,Short Trip
+229,2016-03-16 14:44:00,3/16/2016 14:55,Business,Convention Center District,West University,2.0,,Short Trip,2020,Short Trip
+230,2016-03-16 18:43:00,3/16/2016 18:56,Business,West University,Congress Ave District,2.1,Meal/Entertain,Short Trip,2020,Short Trip
+231,2016-03-17 00:33:00,3/17/2016 0:44,Personal,Downtown,The Drag,1.7,,Short Trip,2020,Short Trip
+232,2016-03-17 12:52:00,3/17/2016 15:11,Business,Austin,Katy,136.0,Customer Visit,Long Trip,2020,Long Trip
+233,2016-03-17 15:16:00,3/17/2016 15:58,Business,Katy,Houston,30.2,Meeting,Long Trip,2020,Long Trip
+234,2016-03-17 17:20:00,3/17/2016 18:02,Business,Midtown,Alief,15.5,Meal/Entertain,Long Trip,2020,Long Trip
+235,2016-03-17 18:47:00,3/17/2016 19:09,Personal,Houston,Houston,4.9,,Short Trip,2020,Short Trip
+236,2016-03-17 20:57:00,3/17/2016 21:28,Personal,Houston,Houston,12.6,,Long Trip,2020,Long Trip
+237,2016-03-17 21:48:00,3/17/2016 22:04,Personal,Sharpstown,Midtown,10.4,,Long Trip,2020,Long Trip
+238,2016-03-18 07:15:00,3/18/2016 7:21,Business,Midtown,Midtown,1.1,Meal/Entertain,Short Trip,2020,Short Trip
+239,2016-03-18 08:35:00,3/18/2016 8:43,Business,Midtown,Midtown,1.1,Meal/Entertain,Short Trip,2020,Short Trip
+240,2016-03-18 18:24:00,3/18/2016 19:08,Business,Midtown,Sharpstown,13.2,Meeting,Long Trip,2020,Long Trip
+241,2016-03-18 19:23:00,3/18/2016 19:29,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,Short Trip,2020,Short Trip
+242,2016-03-18 21:01:00,3/18/2016 21:15,Business,Sharpstown,Midtown,9.2,Customer Visit,Long Trip,2020,Medium Trip
+243,2016-03-19 09:10:00,3/19/2016 9:25,Business,Midtown,Sharpstown,9.4,Meal/Entertain,Long Trip,2020,Medium Trip
+244,2016-03-19 12:50:00,3/19/2016 13:13,Business,Houston,Sugar Land,12.0,Customer Visit,Long Trip,2020,Long Trip
+245,2016-03-19 14:01:00,3/19/2016 14:57,Business,Sugar Land,Houston,35.1,Customer Visit,Long Trip,2020,Long Trip
+246,2016-03-19 15:34:00,3/19/2016 16:38,Business,Houston,Galveston,36.5,Meal/Entertain,Long Trip,2020,Long Trip
+247,2016-03-19 17:17:00,3/19/2016 17:32,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+248,2016-03-19 17:37:00,3/19/2016 17:47,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,Short Trip,2020,Short Trip
+249,2016-03-19 17:52:00,3/19/2016 18:00,Business,Port Bolivar,Port Bolivar,1.2,,Short Trip,2020,Short Trip
+250,2016-03-19 18:53:00,3/19/2016 19:29,Business,Port Bolivar,Galveston,7.5,Meeting,Long Trip,2020,Medium Trip
+251,2016-03-19 19:33:00,3/19/2016 20:39,Business,Galveston,Houston,57.0,Customer Visit,Long Trip,2020,Long Trip
+252,2016-03-20 07:37:00,3/20/2016 7:48,Business,Midtown,Washington Avenue,5.9,Meeting,Long Trip,2020,Medium Trip
+253,2016-03-20 11:42:00,3/20/2016 11:56,Business,Washington Avenue,Midtown,6.2,Meeting,Long Trip,2020,Medium Trip
+254,2016-03-20 17:08:00,3/20/2016 17:34,Business,Midtown,Sharpstown,10.4,,Long Trip,2020,Long Trip
+255,2016-03-20 18:34:00,3/20/2016 18:40,Personal,Sharpstown,Briar Meadow,1.2,,Short Trip,2020,Short Trip
+256,2016-03-20 18:45:00,3/20/2016 19:06,Business,Briar Meadow,Midtown,9.6,Customer Visit,Long Trip,2020,Medium Trip
+257,2016-03-21 10:21:00,3/21/2016 10:26,Personal,Midtown,Downtown,1.0,,Short Trip,2020,Short Trip
+258,2016-03-21 16:05:00,3/21/2016 16:13,Business,Downtown,Midtown,0.9,Meal/Entertain,Short Trip,2020,Short Trip
+259,2016-03-21 18:59:00,3/21/2016 19:15,Business,Midtown,Sharpstown,8.8,,Long Trip,2020,Medium Trip
+260,2016-03-21 20:18:00,3/21/2016 20:55,Business,Sharpstown,Midtown,25.6,Meal/Entertain,Long Trip,2020,Long Trip
+261,2016-03-22 06:17:00,3/22/2016 6:43,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,Long Trip,2020,Long Trip
+262,2016-03-22 12:06:00,3/22/2016 12:24,Personal,Morrisville,Cary,8.1,,Long Trip,2020,Medium Trip
+263,2016-03-22 19:12:00,3/22/2016 19:25,Personal,Whitebridge,Whitebridge,1.4,,Short Trip,2020,Short Trip
+264,2016-03-23 14:37:00,3/23/2016 14:42,Personal,Whitebridge,Preston,1.7,,Short Trip,2020,Short Trip
+265,2016-03-23 14:53:00,3/23/2016 14:59,Personal,Preston,Whitebridge,1.6,,Short Trip,2020,Short Trip
+266,2016-03-24 19:47:00,3/24/2016 19:54,Personal,Whitebridge,Westpark Place,2.0,,Short Trip,2020,Short Trip
+267,2016-03-24 20:34:00,3/24/2016 20:40,Business,Westpark Place,Whitebridge,2.2,,Short Trip,2020,Short Trip
+268,2016-03-25 13:24:00,3/25/2016 16:22,Business,Cary,Latta,144.0,Customer Visit,Long Trip,2020,Long Trip
+269,2016-03-25 16:52:00,3/25/2016 22:22,Business,Latta,Jacksonville,310.3,Customer Visit,Long Trip,2020,Long Trip
+270,2016-03-25 22:54:00,3/26/2016 1:39,Business,Jacksonville,Kissimmee,201.0,Meeting,Long Trip,2020,Long Trip
+271,2016-03-26 14:05:00,3/26/2016 14:29,Personal,Couples Glen,Isles of Buena Vista,6.7,,Long Trip,2020,Medium Trip
+272,2016-03-26 15:19:00,3/26/2016 15:49,Personal,Kissimmee,Orlando,8.8,,Long Trip,2020,Medium Trip
+273,2016-03-26 16:26:00,3/26/2016 16:30,Personal,Lake Reams,Lake Reams,1.2,,Short Trip,2020,Short Trip
+274,2016-03-27 00:31:00,3/27/2016 0:40,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,Short Trip,2020,Short Trip
+275,2016-03-27 01:11:00,3/27/2016 1:23,Business,Orlando,Kissimmee,6.6,Meal/Entertain,Long Trip,2020,Medium Trip
+276,2016-03-27 15:31:00,3/27/2016 15:56,Business,Kissimmee,Orlando,6.1,Customer Visit,Long Trip,2020,Medium Trip
+277,2016-03-27 21:26:00,3/27/2016 21:41,Personal,Orlando,Orlando,6.9,,Long Trip,2020,Medium Trip
+278,2016-03-27 23:04:00,3/27/2016 23:18,Personal,Orlando,Kissimmee,7.3,,Long Trip,2020,Medium Trip
+279,2016-03-28 12:29:00,3/28/2016 12:42,Personal,Kissimmee,Orlando,3.6,,Short Trip,2020,Short Trip
+280,2016-03-28 19:30:00,3/28/2016 20:23,Personal,Couples Glen,Vista East,27.2,,Long Trip,2020,Long Trip
+281,2016-03-28 22:55:00,3/28/2016 23:26,Personal,Orlando,Kissimmee,25.7,,Long Trip,2020,Long Trip
+282,2016-03-29 15:27:00,3/29/2016 16:11,Personal,Kissimmee,Orlando,13.6,,Long Trip,2020,Long Trip
+283,2016-03-29 18:20:00,3/29/2016 18:39,Personal,Sand Lake Commons,Sky Lake,6.2,,Long Trip,2020,Medium Trip
+284,2016-03-29 20:29:00,3/29/2016 20:44,Personal,Sky Lake,Sand Lake Commons,6.0,,Long Trip,2020,Medium Trip
+285,2016-03-29 23:04:00,3/29/2016 23:21,Personal,Orlando,Kissimmee,13.8,,Long Trip,2020,Long Trip
+286,2016-03-30 22:05:00,3/30/2016 22:55,Business,Orlando,Kissimmee,28.8,Meal/Entertain,Long Trip,2020,Long Trip
+287,2016-03-31 12:47:00,3/31/2016 13:22,Business,Kissimmee,Orlando,16.1,Temporary Site,Long Trip,2020,Long Trip
+288,2016-03-31 14:37:00,3/31/2016 15:09,Business,Orlando,Kissimmee,16.4,Meal/Entertain,Long Trip,2020,Long Trip
+289,2016-04-01 13:43:00,4/1/2016 14:01,Business,Kissimmee,Kissimmee,11.0,Meeting,Long Trip,2020,Long Trip
+290,2016-04-01 14:36:00,4/1/2016 15:24,Business,Kissimmee,Orlando,15.5,Customer Visit,Long Trip,2020,Long Trip
+291,2016-04-01 16:01:00,4/1/2016 16:49,Business,Orlando,Kissimmee,20.3,Meeting,Long Trip,2020,Long Trip
+292,2016-04-01 16:52:00,4/1/2016 16:57,Personal,Kissimmee,Kissimmee,0.7,,Short Trip,2020,Short Trip
+293,2016-04-02 08:48:00,4/2/2016 9:04,Personal,Kissimmee,Kissimmee,5.5,,Long Trip,2020,Medium Trip
+294,2016-04-02 11:01:00,4/2/2016 11:16,Personal,Kissimmee,Kissimmee,5.1,,Long Trip,2020,Medium Trip
+295,2016-04-02 12:21:00,4/2/2016 14:47,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,Long Trip,2020,Long Trip
+296,2016-04-02 16:57:00,4/2/2016 18:09,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,Long Trip,2020,Long Trip
+297,2016-04-02 19:38:00,4/2/2016 22:36,Business,Jacksonville,Ridgeland,174.2,Customer Visit,Long Trip,2020,Long Trip
+298,2016-04-02 23:11:00,4/3/2016 1:34,Business,Ridgeland,Florence,144.0,Meeting,Long Trip,2020,Long Trip
+299,2016-04-03 02:00:00,4/3/2016 4:16,Business,Florence,Cary,159.3,Meeting,Long Trip,2020,Long Trip
+300,2016-04-05 21:39:00,4/5/2016 21:55,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,Long Trip,2020,Medium Trip
+301,2016-04-06 00:19:00,4/6/2016 0:39,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,Long Trip,2020,Medium Trip
+302,2016-04-07 18:20:00,4/7/2016 18:39,Business,Cary,Morrisville,6.1,Meal/Entertain,Long Trip,2020,Medium Trip
+303,2016-04-07 19:45:00,4/7/2016 20:00,Business,Morrisville,Cary,6.1,Errand/Supplies,Long Trip,2020,Medium Trip
+304,2016-04-08 12:30:00,4/8/2016 12:48,Business,Cary,Durham,10.5,Meeting,Long Trip,2020,Long Trip
+305,2016-04-08 13:34:00,4/8/2016 13:51,Business,Durham,Cary,8.7,Meal/Entertain,Long Trip,2020,Medium Trip
+306,2016-04-08 13:55:00,4/8/2016 14:03,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,Short Trip,2020,Short Trip
+307,2016-04-08 14:43:00,4/8/2016 15:20,Business,Cary,Raleigh,19.1,Meeting,Long Trip,2020,Long Trip
+308,2016-04-08 16:05:00,4/8/2016 16:47,Business,Raleigh,Cary,18.6,Meeting,Long Trip,2020,Long Trip
+309,2016-04-12 09:15:00,4/12/2016 9:26,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,Short Trip,2020,Short Trip
+310,2016-04-12 09:34:00,4/12/2016 9:53,Business,Cary,Raleigh,8.9,Meeting,Long Trip,2020,Medium Trip
+311,2016-04-12 10:58:00,4/12/2016 11:18,Business,Meredith,Cedar Hill,7.5,Customer Visit,Long Trip,2020,Medium Trip
+312,2016-04-12 12:22:00,4/12/2016 12:44,Business,Raleigh,Morrisville,15.9,Meeting,Long Trip,2020,Long Trip
+313,2016-04-12 13:42:00,4/12/2016 14:01,Business,Morrisville,Cary,6.5,Meal/Entertain,Long Trip,2020,Medium Trip
+314,2016-04-14 07:29:00,4/14/2016 8:09,Business,Cary,Holly Springs,15.3,Temporary Site,Long Trip,2020,Long Trip
+315,2016-04-14 16:00:00,4/14/2016 16:43,Business,Holly Springs,Cary,13.7,Temporary Site,Long Trip,2020,Long Trip
+316,2016-04-15 11:36:00,4/15/2016 12:07,Business,Cary,Raleigh,11.9,Temporary Site,Long Trip,2020,Long Trip
+317,2016-04-15 12:29:00,4/15/2016 12:32,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,Short Trip,2020,Short Trip
+318,2016-04-15 14:31:00,4/15/2016 15:01,Business,Raleigh,Cary,15.2,Meeting,Long Trip,2020,Long Trip
+319,2016-04-16 12:59:00,4/16/2016 13:17,Business,Cary,Morrisville,6.0,Errand/Supplies,Long Trip,2020,Medium Trip
+320,2016-04-16 15:10:00,4/16/2016 15:26,Business,Morrisville,Cary,6.1,Meal/Entertain,Long Trip,2020,Medium Trip
+321,2016-04-19 17:44:00,4/19/2016 18:08,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,Long Trip,2020,Medium Trip
+322,2016-04-19 19:57:00,4/19/2016 20:19,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,Long Trip,2020,Medium Trip
+323,2016-04-22 08:25:00,4/22/2016 9:04,Business,Cary,Raleigh,13.6,Meeting,Long Trip,2020,Long Trip
+324,2016-04-22 10:10:00,4/22/2016 10:40,Business,Raleigh,Cary,22.5,Meeting,Long Trip,2020,Long Trip
+325,2016-04-22 12:08:00,4/22/2016 12:28,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+326,2016-04-22 13:02:00,4/22/2016 13:26,Business,Durham,Cary,10.0,Meeting,Long Trip,2020,Medium Trip
+327,2016-04-23 17:03:00,4/23/2016 17:16,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,Long Trip,2020,Medium Trip
+328,2016-04-23 18:49:00,4/23/2016 19:05,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,Long Trip,2020,Medium Trip
+329,2016-04-24 19:07:00,4/24/2016 19:16,Business,Cary,Morrisville,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+330,2016-04-24 19:46:00,4/24/2016 19:52,Business,Chessington,Chessington,1.9,Errand/Supplies,Short Trip,2020,Short Trip
+331,2016-04-24 21:41:00,4/24/2016 21:50,Business,Morrisville,Cary,4.2,Between Offices,Short Trip,2020,Short Trip
+332,2016-04-27 13:30:00,4/27/2016 13:40,Business,Whitebridge,Burtrose,4.9,Between Offices,Short Trip,2020,Short Trip
+333,2016-04-27 14:13:00,4/27/2016 14:25,Business,Burtrose,Whitebridge,4.8,Between Offices,Short Trip,2020,Short Trip
+334,2016-04-28 12:09:00,4/28/2016 12:34,Business,Cary,Raleigh,12.4,Customer Visit,Long Trip,2020,Long Trip
+335,2016-04-28 13:30:00,4/28/2016 13:49,Business,Raleigh,Cary,32.8,Customer Visit,Long Trip,2020,Long Trip
+336,2016-04-28 22:10:00,4/28/2016 22:28,Business,Morrisville,Cary,5.5,Customer Visit,Long Trip,2020,Medium Trip
+337,2016-04-29 11:44:00,4/29/2016 12:01,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+338,2016-04-29 13:13:00,4/29/2016 13:34,Business,Durham,Cary,10.0,Meeting,Long Trip,2020,Medium Trip
+339,2016-04-29 18:46:00,4/29/2016 19:18,Business,Cary,Durham,14.2,Customer Visit,Long Trip,2020,Long Trip
+340,2016-04-29 22:44:00,4/29/2016 23:19,Business,Durham,Cary,18.2,Meeting,Long Trip,2020,Long Trip
+341,2016-04-30 18:42:00,4/30/2016 18:57,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,Long Trip,2020,Medium Trip
+342,2016-04-30 22:16:00,4/30/2016 22:34,Business,Waverly Place,Whitebridge,6.8,,Long Trip,2020,Medium Trip
+343,2016-05-01 13:45:00,5/1/2016 13:53,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,Short Trip,2020,Short Trip
+344,2016-05-01 14:26:00,5/1/2016 14:31,Business,Westpark Place,Whitebridge,2.3,,Short Trip,2020,Short Trip
+345,2016-05-01 17:33:00,5/1/2016 17:45,Business,Whitebridge,Tanglewood,6.2,Between Offices,Long Trip,2020,Medium Trip
+346,2016-05-01 17:54:00,5/1/2016 18:10,Business,Tanglewood,Parkway,7.5,Meeting,Long Trip,2020,Medium Trip
+347,2016-05-01 22:38:00,5/1/2016 22:49,Business,Parkway,Whitebridge,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+348,2016-05-02 14:14:00,5/2/2016 14:21,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,Short Trip,2020,Short Trip
+349,2016-05-02 15:37:00,5/2/2016 15:48,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,Short Trip,2020,Short Trip
+350,2016-05-03 22:20:00,5/3/2016 22:28,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+351,2016-05-04 15:16:00,5/4/2016 15:37,Business,Cary,Morrisville,8.7,Meal/Entertain,Long Trip,2020,Medium Trip
+352,2016-05-04 20:55:00,5/4/2016 21:14,Business,Mcvan,Capitol One,14.5,Errand/Supplies,Long Trip,2020,Long Trip
+353,2016-05-04 21:30:00,5/4/2016 21:36,Business,Capitol One,University District,4.5,Meal/Entertain,Short Trip,2020,Short Trip
+354,2016-05-04 22:19:00,5/4/2016 22:27,Business,University District,Capitol One,5.0,Meal/Entertain,Short Trip,2020,Medium Trip
+355,2016-05-05 21:24:00,5/5/2016 21:36,Business,Seattle,Redmond,14.2,Meal/Entertain,Long Trip,2020,Long Trip
+356,2016-05-05 22:34:00,5/5/2016 22:40,Business,Redmond,Bellevue,2.9,Errand/Supplies,Short Trip,2020,Short Trip
+357,2016-05-05 23:55:00,5/6/2016 0:08,Business,Bellevue,Seattle,12.9,Meeting,Long Trip,2020,Long Trip
+358,2016-05-06 05:47:00,5/6/2016 6:02,Business,Capitol One,Mcvan,14.4,Meeting,Long Trip,2020,Long Trip
+359,2016-05-06 16:45:00,5/6/2016 16:59,Business,Chapel Hill,Morrisville,17.0,Meeting,Long Trip,2020,Long Trip
+360,2016-05-06 17:18:00,5/6/2016 17:44,Business,Morrisville,Cary,7.9,Customer Visit,Long Trip,2020,Medium Trip
+361,2016-05-09 06:08:00,5/9/2016 6:25,Business,Cary,Morrisville,8.4,Customer Visit,Long Trip,2020,Medium Trip
+362,2016-05-09 14:39:00,5/9/2016 15:06,Business,San Francisco,Palo Alto,20.5,Between Offices,Long Trip,2020,Long Trip
+363,2016-05-09 17:58:00,5/9/2016 18:26,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,Long Trip,2020,Medium Trip
+364,2016-05-09 19:35:00,5/9/2016 19:59,Business,Sunnyvale,Newark,17.6,Customer Visit,Long Trip,2020,Long Trip
+365,2016-05-10 09:03:00,5/10/2016 9:20,Business,Newark,Menlo Park,9.3,Customer Visit,Long Trip,2020,Medium Trip
+366,2016-05-10 17:19:00,5/10/2016 17:31,Business,Menlo Park,Newark,7.9,Customer Visit,Long Trip,2020,Medium Trip
+367,2016-05-11 08:35:00,5/11/2016 9:12,Business,Newark,San Francisco,25.6,Meeting,Long Trip,2020,Long Trip
+368,2016-05-11 21:47:00,5/11/2016 22:04,Business,Morrisville,Cary,8.1,Meeting,Long Trip,2020,Medium Trip
+369,2016-05-14 18:35:00,5/14/2016 18:39,Business,Cary,Morrisville,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+370,2016-05-14 23:01:00,5/14/2016 23:05,Business,Morrisville,Cary,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+371,2016-05-17 13:15:00,5/17/2016 13:23,Business,Whitebridge,Preston,2.8,Errand/Supplies,Short Trip,2020,Short Trip
+372,2016-05-17 13:56:00,5/17/2016 14:08,Business,Preston,Westpark Place,2.7,Errand/Supplies,Short Trip,2020,Short Trip
+373,2016-05-17 14:34:00,5/17/2016 14:40,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,Short Trip,2020,Short Trip
+374,2016-05-18 09:11:00,5/18/2016 9:41,Business,Cary,Morrisville,8.4,Customer Visit,Long Trip,2020,Medium Trip
+375,2016-05-18 13:00:00,5/18/2016 13:02,Business,Morrisville,Raleigh,7.6,Customer Visit,Long Trip,2020,Medium Trip
+376,2016-05-19 14:37:00,5/19/2016 15:01,Business,Old City,Parkway Museums,2.9,Meal/Entertain,Short Trip,2020,Short Trip
+377,2016-05-20 10:56:00,5/20/2016 11:07,Business,Old City,Hog Island,11.2,Meeting,Long Trip,2020,Long Trip
+378,2016-05-20 15:43:00,5/20/2016 16:12,Business,Morrisville,Cary,8.2,Meal/Entertain,Long Trip,2020,Medium Trip
+379,2016-05-22 15:39:00,5/22/2016 15:46,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+380,2016-05-22 18:46:00,5/22/2016 18:53,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+381,2016-05-23 20:19:00,5/23/2016 20:27,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,Short Trip,2020,Short Trip
+382,2016-05-23 21:09:00,5/23/2016 21:21,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,Short Trip,2020,Short Trip
+383,2016-05-27 20:26:00,5/27/2016 20:30,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,Short Trip,2020,Short Trip
+384,2016-05-27 20:47:00,5/27/2016 20:53,Business,Savon Height,Kilarney Woods,1.2,,Short Trip,2020,Short Trip
+385,2016-05-27 22:11:00,5/27/2016 22:14,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,Short Trip,2020,Short Trip
+386,2016-05-28 00:15:00,5/28/2016 0:21,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,Short Trip,2020,Short Trip
+387,2016-05-28 12:52:00,5/28/2016 13:06,Business,Cary,Morrisville,6.1,Meal/Entertain,Long Trip,2020,Medium Trip
+388,2016-05-28 14:35:00,5/28/2016 15:04,Business,Morrisville,Cary,11.3,Customer Visit,Long Trip,2020,Long Trip
+389,2016-05-31 13:54:00,5/31/2016 14:41,Business,Cary,Raleigh,14.9,Meeting,Long Trip,2020,Long Trip
+390,2016-05-31 16:02:00,5/31/2016 16:39,Business,Raleigh,Cary,14.0,Meeting,Long Trip,2020,Long Trip
+391,2016-05-31 17:50:00,5/31/2016 17:59,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+392,2016-06-01 10:19:00,6/1/2016 10:47,Business,Cary,Morrisville,6.7,Customer Visit,Long Trip,2020,Medium Trip
+393,2016-06-01 13:10:00,6/1/2016 13:39,Business,Morrisville,Cary,9.6,Meeting,Long Trip,2020,Medium Trip
+394,2016-06-03 11:29:00,6/3/2016 11:49,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+395,2016-06-03 13:08:00,6/3/2016 13:38,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+396,2016-06-03 15:31:00,6/3/2016 15:54,Business,Cary,Morrisville,6.0,Meal/Entertain,Long Trip,2020,Medium Trip
+397,2016-06-03 18:14:00,6/3/2016 18:29,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,Short Trip,2020,Short Trip
+398,2016-06-03 18:41:00,6/3/2016 18:53,Business,Morrisville,Cary,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+399,2016-06-03 19:36:00,6/3/2016 19:42,Business,Huntington Woods,Weston,1.7,Errand/Supplies,Short Trip,2020,Short Trip
+400,2016-06-03 22:47:00,6/3/2016 23:06,Business,Morrisville,Cary,4.0,Between Offices,Short Trip,2020,Short Trip
+401,2016-06-05 14:03:00,6/5/2016 14:33,Business,Whitebridge,Savon Height,7.8,Customer Visit,Long Trip,2020,Medium Trip
+402,2016-06-05 15:06:00,6/5/2016 15:22,Business,Cary,Morrisville,7.8,Customer Visit,Long Trip,2020,Medium Trip
+403,2016-06-05 15:57:00,6/5/2016 16:08,Business,Weston,Weston,3.8,Meal/Entertain,Short Trip,2020,Short Trip
+404,2016-06-05 18:05:00,6/5/2016 18:14,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+405,2016-06-05 21:53:00,6/5/2016 22:05,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+406,2016-06-05 23:52:00,6/6/2016 0:08,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+407,2016-06-06 15:36:00,6/6/2016 15:45,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,Short Trip,2020,Short Trip
+408,2016-06-06 16:16:00,6/6/2016 16:24,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,Short Trip,2020,Short Trip
+409,2016-06-06 20:06:00,6/6/2016 20:20,Business,Cary,Apex,5.7,Meal/Entertain,Long Trip,2020,Medium Trip
+410,2016-06-06 21:08:00,6/6/2016 21:37,Business,Apex,Cary,7.2,Meal/Entertain,Long Trip,2020,Medium Trip
+411,2016-06-06 21:41:00,6/6/2016 22:00,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+412,2016-06-06 23:34:00,6/6/2016 23:48,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+413,2016-06-07 21:42:00,6/7/2016 22:00,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+414,2016-06-07 23:41:00,6/8/2016 0:04,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+415,2016-06-08 08:23:00,6/8/2016 8:53,Business,Cary,Morrisville,8.7,Meal/Entertain,Long Trip,2020,Medium Trip
+416,2016-06-08 12:04:00,6/8/2016 13:01,Business,Jamaica,New York,22.3,Errand/Supplies,Long Trip,2020,Long Trip
+417,2016-06-08 13:12:00,6/8/2016 13:29,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,Short Trip,2020,Short Trip
+418,2016-06-08 14:31:00,6/8/2016 14:37,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,Short Trip,2020,Short Trip
+419,2016-06-08 16:55:00,6/8/2016 17:11,Business,Rose Hill,Soho,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+420,2016-06-08 17:16:00,6/8/2016 17:18,Business,Soho,Tribeca,0.5,Errand/Supplies,Short Trip,2020,Short Trip
+421,2016-06-08 17:59:00,6/8/2016 18:05,Business,Tribeca,Financial District,0.9,Errand/Supplies,Short Trip,2020,Short Trip
+422,2016-06-08 20:11:00,6/8/2016 20:25,Business,Financial District,Kips Bay,4.8,Errand/Supplies,Short Trip,2020,Short Trip
+423,2016-06-10 15:19:00,6/10/2016 16:28,Business,New York,Jamaica,16.3,Meeting,Long Trip,2020,Long Trip
+424,2016-06-10 21:47:00,6/10/2016 22:04,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+425,2016-06-10 23:53:00,6/11/2016 0:01,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+426,2016-06-11 17:08:00,6/11/2016 17:16,Business,Cary,Morrisville,3.7,Errand/Supplies,Short Trip,2020,Short Trip
+427,2016-06-11 17:34:00,6/11/2016 17:39,Business,Morrisville,Cary,4.6,Meal/Entertain,Short Trip,2020,Short Trip
+428,2016-06-11 17:50:00,6/11/2016 17:56,Business,Westpark Place,Whitebridge,1.7,,Short Trip,2020,Short Trip
+429,2016-06-11 21:45:00,6/11/2016 22:04,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+430,2016-06-11 23:39:00,6/12/2016 0:05,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+431,2016-06-12 19:53:00,6/12/2016 19:56,Business,Cary,Morrisville,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+432,2016-06-12 20:05:00,6/12/2016 20:16,Business,Morrisville,Cary,4.3,Errand/Supplies,Short Trip,2020,Short Trip
+433,2016-06-12 21:58:00,6/12/2016 22:19,Business,Parkway,Whitebridge,2.8,Errand/Supplies,Short Trip,2020,Short Trip
+434,2016-06-13 05:23:00,6/13/2016 5:42,Business,Cary,Morrisville,8.4,Meal/Entertain,Long Trip,2020,Medium Trip
+435,2016-06-13 14:17:00,6/13/2016 14:46,Business,Oakland,Emeryville,13.2,Meeting,Long Trip,2020,Long Trip
+436,2016-06-13 18:08:00,6/13/2016 18:47,Business,Emeryville,Berkeley,3.9,Meal/Entertain,Short Trip,2020,Short Trip
+437,2016-06-13 18:54:00,6/13/2016 19:23,Business,Berkeley,Oakland,5.1,Meal/Entertain,Long Trip,2020,Medium Trip
+438,2016-06-13 20:00:00,6/13/2016 20:05,Business,Oakland,Unknown Location,5.2,Customer Visit,Long Trip,2020,Medium Trip
+439,2016-06-14 12:03:00,6/14/2016 12:21,Business,Emeryville,San Francisco,9.8,,Long Trip,2020,Medium Trip
+440,2016-06-14 16:09:00,6/14/2016 16:39,Business,San Francisco,Emeryville,11.6,Meeting,Long Trip,2020,Long Trip
+441,2016-06-14 17:15:00,6/14/2016 17:24,Business,Emeryville,Oakland,5.1,Meeting,Long Trip,2020,Medium Trip
+442,2016-06-14 17:27:00,6/14/2016 17:57,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,Long Trip,2020,Medium Trip
+443,2016-06-15 01:46:00,6/15/2016 2:06,Business,Kenner,New Orleans,12.4,Between Offices,Long Trip,2020,Long Trip
+444,2016-06-15 15:26:00,6/15/2016 15:34,Business,CBD,Lower Garden District,1.9,Between Offices,Short Trip,2020,Short Trip
+445,2016-06-15 16:37:00,6/15/2016 17:02,Business,Lower Garden District,Lakeview,6.4,Customer Visit,Long Trip,2020,Medium Trip
+446,2016-06-15 17:29:00,6/15/2016 17:49,Personal,Lakeview,Storyville,5.5,,Long Trip,2020,Medium Trip
+447,2016-06-15 19:52:00,6/15/2016 19:58,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,Short Trip,2020,Short Trip
+448,2016-06-16 13:36:00,6/16/2016 14:30,Business,New Orleans,Metairie,14.5,,Long Trip,2020,Long Trip
+449,2016-06-16 14:42:00,6/16/2016 14:46,Business,Metairie,Kenner,2.7,,Short Trip,2020,Short Trip
+450,2016-06-16 15:17:00,6/16/2016 15:41,Business,Kenner,New Orleans,15.0,,Long Trip,2020,Long Trip
+451,2016-06-16 19:39:00,6/16/2016 19:56,Business,New Orleans,Kenner,12.9,,Long Trip,2020,Long Trip
+452,2016-06-16 21:43:00,6/16/2016 21:56,Business,Kenner,New Orleans,13.6,,Long Trip,2020,Long Trip
+453,2016-06-17 16:11:00,6/17/2016 16:44,Business,New Orleans,Kenner,12.2,,Long Trip,2020,Long Trip
+454,2016-06-18 00:29:00,6/18/2016 0:51,Business,Morrisville,Cary,8.7,,Long Trip,2020,Medium Trip
+455,2016-06-19 02:39:00,6/19/2016 2:50,Business,Cary,Raleigh,6.0,,Long Trip,2020,Medium Trip
+456,2016-06-19 05:51:00,6/19/2016 6:00,Business,Raleigh,Cary,5.9,,Long Trip,2020,Medium Trip
+457,2016-06-21 15:39:00,6/21/2016 16:08,Business,Cary,Raleigh,19.3,,Long Trip,2020,Long Trip
+458,2016-06-21 17:11:00,6/21/2016 18:02,Business,Raleigh,Cary,16.6,Meal/Entertain,Long Trip,2020,Long Trip
+459,2016-06-24 10:41:00,6/24/2016 10:57,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,Long Trip,2020,Medium Trip
+460,2016-06-24 11:54:00,6/24/2016 12:01,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,Short Trip,2020,Short Trip
+461,2016-06-24 12:19:00,6/24/2016 12:37,Business,Cary,Raleigh,8.6,Errand/Supplies,Long Trip,2020,Medium Trip
+462,2016-06-24 12:50:00,6/24/2016 13:12,Business,Raleigh,Morrisville,9.0,Errand/Supplies,Long Trip,2020,Medium Trip
+463,2016-06-24 13:18:00,6/24/2016 13:27,Business,Morrisville,Cary,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+464,2016-06-24 14:01:00,6/24/2016 14:20,Business,Cary,Morrisville,8.4,Temporary Site,Long Trip,2020,Medium Trip
+465,2016-06-24 20:44:00,6/24/2016 21:02,Business,Kenner,New Orleans,12.8,,Long Trip,2020,Long Trip
+466,2016-06-25 09:03:00,6/25/2016 9:12,Business,CBD,Bywater,4.5,,Short Trip,2020,Short Trip
+467,2016-06-25 09:15:00,6/25/2016 10:08,Business,New Orleans,Chalmette,11.8,Between Offices,Long Trip,2020,Long Trip
+468,2016-06-25 10:18:00,6/25/2016 10:25,Business,Chalmette,Arabi,1.1,Errand/Supplies,Short Trip,2020,Short Trip
+469,2016-06-25 10:50:00,6/25/2016 11:18,Business,Arabi,Metairie,17.0,Meal/Entertain,Long Trip,2020,Long Trip
+470,2016-06-25 11:25:00,6/25/2016 11:34,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,Short Trip,2020,Short Trip
+471,2016-06-25 11:53:00,6/25/2016 13:21,Business,Metairie,New Orleans,15.5,Meeting,Long Trip,2020,Long Trip
+472,2016-06-25 19:47:00,6/25/2016 19:58,Business,Storyville,Marigny,1.6,,Short Trip,2020,Short Trip
+473,2016-06-25 23:19:00,6/25/2016 23:26,Business,Marigny,Storyville,1.5,,Short Trip,2020,Short Trip
+474,2016-06-26 17:43:00,6/26/2016 18:18,Business,New Orleans,Kenner,12.6,Meeting,Long Trip,2020,Long Trip
+475,2016-06-26 18:45:00,6/26/2016 19:12,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,,Short Trip,2020,Short Trip
+476,2016-06-26 19:41:00,6/26/2016 19:50,Business,Kenner,Kenner,2.2,,Short Trip,2020,Short Trip
+477,2016-06-26 21:14:00,6/26/2016 21:42,Business,Kenner,New Orleans,13.0,,Long Trip,2020,Long Trip
+478,2016-06-27 07:37:00,6/27/2016 8:48,Business,New Orleans,Covington,46.9,,Long Trip,2020,Long Trip
+479,2016-06-27 08:51:00,6/27/2016 9:00,Business,Covington,Covington,2.5,,Short Trip,2020,Short Trip
+480,2016-06-27 09:05:00,6/27/2016 9:33,Business,Covington,Covington,8.6,,Long Trip,2020,Medium Trip
+481,2016-06-27 09:43:00,6/27/2016 10:08,Business,Covington,Covington,5.2,,Long Trip,2020,Medium Trip
+482,2016-06-27 10:22:00,6/27/2016 10:39,Business,Covington,Covington,7.6,,Long Trip,2020,Medium Trip
+483,2016-06-27 10:51:00,6/27/2016 10:58,Business,Covington,Covington,1.8,,Short Trip,2020,Short Trip
+484,2016-06-27 11:06:00,6/27/2016 11:24,Business,Covington,Mandeville,4.7,,Short Trip,2020,Short Trip
+485,2016-06-27 11:30:00,6/27/2016 11:42,Business,Mandeville,Mandeville,2.8,,Short Trip,2020,Short Trip
+486,2016-06-27 12:22:00,6/27/2016 13:02,Business,Mandeville,Metairie,30.0,,Long Trip,2020,Long Trip
+487,2016-06-27 13:56:00,6/27/2016 14:05,Business,Metairie,Kenner,4.4,,Short Trip,2020,Short Trip
+488,2016-06-27 21:09:00,6/27/2016 21:19,Business,Jamestown Court,Jamestown Court,1.0,,Short Trip,2020,Short Trip
+489,2016-06-28 00:48:00,6/28/2016 1:05,Business,Morrisville,Cary,8.2,Customer Visit,Long Trip,2020,Medium Trip
+490,2016-06-28 20:13:00,6/28/2016 20:33,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+491,2016-06-28 23:34:00,6/28/2016 23:59,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+492,2016-06-28 23:34:00,6/28/2016 23:59,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+493,2016-06-29 08:56:00,6/29/2016 9:24,Business,Cary,Morrisville,7.3,,Long Trip,2020,Medium Trip
+494,2016-06-29 10:22:00,6/29/2016 10:38,Business,Morrisville,Cary,7.4,,Long Trip,2020,Medium Trip
+495,2016-06-29 11:49:00,6/29/2016 11:51,Business,Whitebridge,Westpark Place,1.6,,Short Trip,2020,Short Trip
+496,2016-06-29 12:11:00,6/29/2016 12:16,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+497,2016-06-29 20:11:00,6/29/2016 20:29,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+498,2016-06-29 23:38:00,6/30/2016 0:00,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+499,2016-06-30 20:09:00,6/30/2016 20:26,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+500,2016-07-01 00:00:00,7/1/2016 0:25,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+501,2016-07-01 09:34:00,7/1/2016 9:57,Business,Cary,Raleigh,13.3,Meeting,Long Trip,2020,Long Trip
+502,2016-07-01 12:36:00,7/1/2016 13:00,Business,Raleigh,Cary,11.3,Meeting,Long Trip,2020,Long Trip
+503,2016-07-01 20:06:00,7/1/2016 20:24,Business,Cary,Durham,10.5,Meeting,Long Trip,2020,Long Trip
+504,2016-07-01 23:48:00,7/2/2016 0:09,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+505,2016-07-02 20:18:00,7/2/2016 20:36,Business,Cary,Durham,10.1,Meeting,Long Trip,2020,Long Trip
+506,2016-07-02 23:48:00,7/3/2016 0:12,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+507,2016-07-03 00:28:00,7/3/2016 0:38,Business,Cary,Morrisville,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+508,2016-07-03 03:02:00,7/3/2016 3:08,Business,Morrisville,Cary,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+509,2016-07-03 20:00:00,7/3/2016 20:18,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+510,2016-07-04 00:32:00,7/4/2016 0:47,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+511,2016-07-04 17:31:00,7/4/2016 17:49,Business,Whitebridge,Summerwinds,8.8,Meeting,Long Trip,2020,Medium Trip
+512,2016-07-04 18:23:00,7/4/2016 18:49,Business,Summerwinds,Whitebridge,8.7,Temporary Site,Long Trip,2020,Medium Trip
+513,2016-07-04 20:00:00,7/4/2016 20:17,Business,Cary,Durham,11.8,Meeting,Long Trip,2020,Long Trip
+514,2016-07-05 00:00:00,7/5/2016 0:05,Business,Parkwood,Parkwood,1.2,Errand/Supplies,Short Trip,2020,Short Trip
+515,2016-07-05 00:08:00,7/5/2016 0:28,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+516,2016-07-05 16:48:00,7/5/2016 16:52,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,Short Trip,2020,Short Trip
+517,2016-07-05 20:06:00,7/5/2016 20:26,Business,Cary,Durham,9.9,,Long Trip,2020,Medium Trip
+518,2016-07-05 22:41:00,7/5/2016 23:02,Business,Durham,Morrisville,8.6,,Long Trip,2020,Medium Trip
+519,2016-07-06 00:33:00,7/6/2016 0:53,Business,Morrisville,Cary,6.3,Meal/Entertain,Long Trip,2020,Medium Trip
+520,2016-07-06 09:06:00,7/6/2016 9:25,Business,Cary,Durham,9.9,Meeting,Long Trip,2020,Medium Trip
+521,2016-07-06 12:48:00,7/6/2016 13:08,Business,Durham,Cary,9.9,,Long Trip,2020,Medium Trip
+522,2016-07-06 20:04:00,7/6/2016 20:14,Business,Cary,Morrisville,3.3,Meal/Entertain,Short Trip,2020,Short Trip
+523,2016-07-06 23:46:00,7/6/2016 23:59,Business,Morrisville,Cary,3.1,Customer Visit,Short Trip,2020,Short Trip
+524,2016-07-07 08:22:00,7/7/2016 8:50,Business,Cary,Morrisville,7.9,Temporary Site,Long Trip,2020,Medium Trip
+525,2016-07-07 10:27:00,7/7/2016 10:33,Business,Morrisville,Cary,8.9,,Long Trip,2020,Medium Trip
+526,2016-07-07 12:59:00,7/7/2016 13:35,Business,Kenner,New Orleans,12.8,,Long Trip,2020,Long Trip
+527,2016-07-08 09:50:00,7/8/2016 10:13,Business,CBD,Pontchartrain Beach,7.7,,Long Trip,2020,Medium Trip
+528,2016-07-08 10:51:00,7/8/2016 11:12,Business,Pontchartrain Beach,CBD,7.0,,Long Trip,2020,Medium Trip
+529,2016-07-08 13:48:00,7/8/2016 14:11,Business,New Orleans,Metairie,12.5,,Long Trip,2020,Long Trip
+530,2016-07-08 17:11:00,7/8/2016 17:30,Business,Kenner,New Orleans,13.2,,Long Trip,2020,Long Trip
+531,2016-07-09 09:03:00,7/9/2016 9:46,Business,New Orleans,Kenner,13.0,,Long Trip,2020,Long Trip
+532,2016-07-09 09:52:00,7/9/2016 10:06,Business,Kenner,Metairie,4.9,,Short Trip,2020,Short Trip
+533,2016-07-09 10:15:00,7/9/2016 10:33,Business,Metairie,New Orleans,8.5,,Long Trip,2020,Medium Trip
+534,2016-07-10 14:10:00,7/10/2016 14:17,Business,CBD,St Thomas,1.3,,Short Trip,2020,Short Trip
+535,2016-07-10 16:04:00,7/10/2016 16:15,Business,St Thomas,CBD,1.8,,Short Trip,2020,Short Trip
+536,2016-07-10 18:05:00,7/10/2016 18:21,Business,New Orleans,Kenner,13.6,,Long Trip,2020,Long Trip
+537,2016-07-10 19:51:00,7/10/2016 20:08,Business,Kenner,New Orleans,13.4,,Long Trip,2020,Long Trip
+538,2016-07-12 16:10:00,7/12/2016 16:45,Business,New Orleans,Kenner,12.3,,Long Trip,2020,Long Trip
+539,2016-07-12 19:21:00,7/12/2016 19:26,Personal,Kenner,Kenner,1.4,,Short Trip,2020,Short Trip
+540,2016-07-12 23:47:00,7/13/2016 0:11,Personal,Morrisville,Cary,8.7,,Long Trip,2020,Medium Trip
+541,2016-07-13 12:39:00,7/13/2016 13:20,Personal,Cary,Morrisville,23.5,,Long Trip,2020,Long Trip
+542,2016-07-13 13:25:00,7/13/2016 13:39,Personal,Morrisville,Morrisville,2.2,,Short Trip,2020,Short Trip
+543,2016-07-13 13:42:00,7/13/2016 13:54,Personal,Morrisville,Cary,4.4,,Short Trip,2020,Short Trip
+544,2016-07-14 15:51:00,7/14/2016 15:59,Personal,Cary,Morrisville,3.3,,Short Trip,2020,Short Trip
+545,2016-07-14 16:03:00,7/14/2016 16:34,Business,Morrisville,Morrisville,11.8,Errand/Supplies,Long Trip,2020,Long Trip
+546,2016-07-14 16:39:00,7/14/2016 20:05,Business,Morrisville,Banner Elk,195.3,,Long Trip,2020,Long Trip
+547,2016-07-15 11:32:00,7/15/2016 11:53,Personal,Banner Elk,Banner Elk,8.3,,Long Trip,2020,Medium Trip
+548,2016-07-15 12:09:00,7/15/2016 12:19,Personal,Banner Elk,Banner Elk,3.2,,Short Trip,2020,Short Trip
+549,2016-07-15 12:35:00,7/15/2016 13:15,Personal,Banner Elk,Elk Park,22.4,,Long Trip,2020,Long Trip
+550,2016-07-15 15:03:00,7/15/2016 15:33,Personal,Elk Park,Banner Elk,12.2,,Long Trip,2020,Long Trip
+551,2016-07-15 15:40:00,7/15/2016 15:52,Personal,Banner Elk,Banner Elk,4.5,,Short Trip,2020,Short Trip
+552,2016-07-16 13:14:00,7/16/2016 14:10,Personal,Banner Elk,Newland,28.1,,Long Trip,2020,Long Trip
+553,2016-07-16 14:14:00,7/16/2016 14:30,Personal,Newland,Newland,3.8,,Short Trip,2020,Short Trip
+554,2016-07-16 15:29:00,7/16/2016 16:57,Personal,Newland,Boone,41.9,,Long Trip,2020,Long Trip
+555,2016-07-16 19:42:00,7/16/2016 20:35,Personal,Boone,Banner Elk,23.8,,Long Trip,2020,Long Trip
+556,2016-07-16 21:45:00,7/16/2016 22:18,Personal,Banner Elk,Banner Elk,13.0,,Long Trip,2020,Long Trip
+557,2016-07-16 22:50:00,7/16/2016 23:03,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,Short Trip,2020,Short Trip
+558,2016-07-17 11:23:00,7/17/2016 11:50,Personal,Banner Elk,Boone,15.1,Charity ($),Long Trip,2020,Long Trip
+559,2016-07-17 12:20:00,7/17/2016 15:25,Personal,Boone,Cary,180.2,Commute,Long Trip,2020,Long Trip
+560,2016-07-18 10:37:00,7/18/2016 10:49,Personal,Cary,Morrisville,4.1,Moving,Short Trip,2020,Short Trip
+561,2016-07-18 10:54:00,7/18/2016 11:15,Personal,Morrisville,Cary,6.1,Moving,Long Trip,2020,Medium Trip
+562,2016-07-18 11:25:00,7/18/2016 11:36,Personal,Northwoods,Preston,3.3,Moving,Short Trip,2020,Short Trip
+563,2016-07-18 11:40:00,7/18/2016 11:56,Personal,Preston,Whitebridge,4.7,Moving,Short Trip,2020,Short Trip
+564,2016-07-18 17:12:00,7/18/2016 17:33,Business,Cary,Apex,7.2,Meeting,Long Trip,2020,Medium Trip
+565,2016-07-18 18:32:00,7/18/2016 18:47,Business,Apex,Cary,5.5,Meal/Entertain,Long Trip,2020,Medium Trip
+566,2016-07-18 19:07:00,7/18/2016 19:14,Business,Cary,Morrisville,3.3,Meal/Entertain,Short Trip,2020,Short Trip
+567,2016-07-18 20:28:00,7/18/2016 20:32,Business,Hazelwood,Weston,0.9,Errand/Supplies,Short Trip,2020,Short Trip
+568,2016-07-18 21:11:00,7/18/2016 21:19,Business,Morrisville,Cary,3.8,Meal/Entertain,Short Trip,2020,Short Trip
+569,2016-07-19 10:35:00,7/19/2016 10:51,Business,Whitebridge,Stonewater,6.4,Customer Visit,Long Trip,2020,Medium Trip
+570,2016-07-19 10:56:00,7/19/2016 11:11,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,Short Trip,2020,Short Trip
+571,2016-07-19 11:30:00,7/19/2016 12:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,Long Trip,2020,Medium Trip
+572,2016-07-19 17:14:00,7/19/2016 17:24,Business,Whitebridge,Chessington,3.9,Errand/Supplies,Short Trip,2020,Short Trip
+573,2016-07-19 17:50:00,7/19/2016 18:08,Personal,Chessington,Whitebridge,4.8,,Short Trip,2020,Short Trip
+574,2016-07-20 17:12:00,7/20/2016 17:24,Personal,Whitebridge,Edgehill Farms,2.8,,Short Trip,2020,Short Trip
+575,2016-07-20 17:50:00,7/20/2016 17:57,Personal,Edgehill Farms,Preston,1.4,,Short Trip,2020,Short Trip
+576,2016-07-20 18:16:00,7/20/2016 18:20,Personal,Preston,Whitebridge,1.4,,Short Trip,2020,Short Trip
+577,2016-07-21 17:17:00,7/21/2016 17:23,Business,Whitebridge,Edgehill Farms,2.7,,Short Trip,2020,Short Trip
+578,2016-07-21 17:42:00,7/21/2016 17:51,Business,Edgehill Farms,Burtrose,2.3,,Short Trip,2020,Short Trip
+579,2016-07-21 18:27:00,7/21/2016 18:42,Business,Cary,Morrisville,3.7,,Short Trip,2020,Short Trip
+580,2016-07-21 19:30:00,7/21/2016 19:39,Business,Morrisville,Cary,2.9,,Short Trip,2020,Short Trip
+581,2016-07-22 10:42:00,7/22/2016 10:53,Business,Cary,Morrisville,3.8,,Short Trip,2020,Short Trip
+582,2016-07-22 11:11:00,7/22/2016 11:25,Business,Morrisville,Cary,5.1,,Long Trip,2020,Medium Trip
+583,2016-07-22 11:37:00,7/22/2016 12:00,Business,Hazelwood,Lexington Park at Amberly,9.1,,Long Trip,2020,Medium Trip
+584,2016-07-22 12:14:00,7/22/2016 12:31,Business,Cary,Durham,8.0,,Long Trip,2020,Medium Trip
+585,2016-07-22 13:21:00,7/22/2016 13:42,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+586,2016-07-22 14:27:00,7/22/2016 14:43,Business,Cary,Morrisville,6.1,Meal/Entertain,Long Trip,2020,Medium Trip
+587,2016-07-22 15:49:00,7/22/2016 16:22,Business,Morrisville,Cary,12.2,,Long Trip,2020,Long Trip
+588,2016-07-22 18:33:00,7/22/2016 18:51,Business,Wayne Ridge,Whitebridge,8.0,,Long Trip,2020,Medium Trip
+589,2016-07-23 14:27:00,7/23/2016 14:44,Business,Cary,Morrisville,4.0,,Short Trip,2020,Short Trip
+590,2016-07-23 14:48:00,7/23/2016 15:12,Business,Morrisville,Cary,9.5,,Long Trip,2020,Medium Trip
+591,2016-07-23 15:15:00,7/23/2016 15:27,Business,Cary,Morrisville,3.0,,Short Trip,2020,Short Trip
+592,2016-07-23 15:50:00,7/23/2016 16:10,Business,Morrisville,Cary,6.3,,Long Trip,2020,Medium Trip
+593,2016-07-23 20:17:00,7/23/2016 20:33,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+594,2016-07-23 23:18:00,7/23/2016 23:43,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+595,2016-07-25 10:35:00,7/25/2016 10:41,Business,Whitebridge,Parkway,1.5,,Short Trip,2020,Short Trip
+596,2016-07-25 10:47:00,7/25/2016 10:58,Business,Cary,Morrisville,4.9,,Short Trip,2020,Short Trip
+597,2016-07-25 11:04:00,7/25/2016 11:33,Business,Morrisville,Cary,7.9,,Long Trip,2020,Medium Trip
+598,2016-07-25 11:37:00,7/25/2016 11:44,Business,Parkway,Whitebridge,1.7,,Short Trip,2020,Short Trip
+599,2016-07-26 15:43:00,7/26/2016 15:49,Business,Whitebridge,Westpark Place,2.2,,Short Trip,2020,Short Trip
+600,2016-07-26 17:14:00,7/26/2016 17:24,Business,Westpark Place,Whitebridge,2.1,,Short Trip,2020,Short Trip
+601,2016-07-26 20:52:00,7/26/2016 21:00,Business,Cary,Morrisville,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+602,2016-07-26 22:31:00,7/26/2016 22:39,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+603,2016-07-27 19:08:00,7/27/2016 19:20,Business,Cary,Morrisville,2.8,,Short Trip,2020,Short Trip
+604,2016-07-27 21:34:00,7/27/2016 21:57,Business,Morrisville,Raleigh,14.7,,Long Trip,2020,Long Trip
+605,2016-07-27 22:00:00,7/27/2016 22:26,Business,Raleigh,Morrisville,14.6,,Long Trip,2020,Long Trip
+606,2016-07-28 00:04:00,7/28/2016 0:09,Business,Morrisville,Cary,2.3,,Short Trip,2020,Short Trip
+607,2016-07-29 15:45:00,7/29/2016 15:47,Business,Whitebridge,Westpark Place,2.2,,Short Trip,2020,Short Trip
+608,2016-07-29 17:27:00,7/29/2016 17:45,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,Short Trip,2020,Short Trip
+609,2016-07-30 17:02:00,7/30/2016 17:27,Business,Cary,Durham,14.0,,Long Trip,2020,Long Trip
+610,2016-07-30 21:16:00,7/30/2016 21:41,Business,Durham,Cary,13.3,,Long Trip,2020,Long Trip
+611,2016-07-31 17:30:00,7/31/2016 17:37,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+612,2016-08-01 12:47:00,8/1/2016 13:04,Business,Whitebridge,Arlington Park at Amberly,6.2,,Long Trip,2020,Medium Trip
+613,2016-08-01 13:08:00,8/1/2016 13:19,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,,Short Trip,2020,Short Trip
+614,2016-08-01 13:28:00,8/1/2016 13:46,Business,Lexington Park at Amberly,Westpark Place,1.9,,Short Trip,2020,Short Trip
+615,2016-08-01 13:52:00,8/1/2016 14:14,Business,Cary,Apex,6.9,,Long Trip,2020,Medium Trip
+616,2016-08-01 15:40:00,8/1/2016 15:47,Business,Apex,Cary,4.6,,Short Trip,2020,Short Trip
+617,2016-08-01 16:18:00,8/1/2016 16:25,Business,Whitebridge,Edgehill Farms,2.8,,Short Trip,2020,Short Trip
+618,2016-08-01 16:29:00,8/1/2016 16:59,Business,Cary,Morrisville,9.1,,Long Trip,2020,Medium Trip
+619,2016-08-01 17:23:00,8/1/2016 17:55,Business,Morrisville,Cary,8.1,,Long Trip,2020,Medium Trip
+620,2016-08-02 08:11:00,8/2/2016 8:32,Business,Cary,Morrisville,8.4,Meeting,Long Trip,2020,Medium Trip
+621,2016-08-02 11:51:00,8/2/2016 12:15,Business,Arlington,Washington,4.9,,Short Trip,2020,Short Trip
+622,2016-08-02 19:15:00,8/2/2016 19:23,Business,Kalorama Triangle,K Street,1.0,,Short Trip,2020,Short Trip
+623,2016-08-02 21:23:00,8/2/2016 21:29,Business,K Street,Kalorama Triangle,1.0,,Short Trip,2020,Short Trip
+624,2016-08-03 12:46:00,8/3/2016 13:00,Business,West End,Northwest Rectangle,2.0,,Short Trip,2020,Short Trip
+625,2016-08-03 14:59:00,8/3/2016 15:03,Business,K Street,Kalorama Triangle,1.1,,Short Trip,2020,Short Trip
+626,2016-08-03 16:00:00,8/3/2016 16:04,Business,Kalorama Triangle,Downtown,1.5,,Short Trip,2020,Short Trip
+627,2016-08-05 17:23:00,8/5/2016 17:30,Business,Connecticut Avenue,Kalorama Triangle,1.3,,Short Trip,2020,Short Trip
+628,2016-08-05 18:17:00,8/5/2016 18:21,Business,Kalorama Triangle,Columbia Heights,1.8,,Short Trip,2020,Short Trip
+629,2016-08-05 19:17:00,8/5/2016 19:27,Business,Columbia Heights,Kalorama Triangle,1.5,,Short Trip,2020,Short Trip
+630,2016-08-06 06:40:00,8/6/2016 6:58,Business,Washington,Arlington,6.6,,Long Trip,2020,Medium Trip
+631,2016-08-06 09:31:00,8/6/2016 9:53,Business,Morrisville,Cary,8.0,,Long Trip,2020,Medium Trip
+632,2016-08-07 17:14:00,8/7/2016 17:23,Business,Whitebridge,Edgehill Farms,2.7,,Short Trip,2020,Short Trip
+633,2016-08-07 17:28:00,8/7/2016 17:43,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,Short Trip,2020,Short Trip
+634,2016-08-07 18:17:00,8/7/2016 18:23,Business,Cary,Morrisville,2.5,,Short Trip,2020,Short Trip
+635,2016-08-07 20:15:00,8/7/2016 20:23,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+636,2016-08-08 16:17:00,8/8/2016 16:31,Business,Whitebridge,Farmington Woods,5.2,,Long Trip,2020,Medium Trip
+637,2016-08-08 16:37:00,8/8/2016 16:50,Business,Farmington Woods,Edgehill Farms,4.0,,Short Trip,2020,Short Trip
+638,2016-08-08 17:02:00,8/8/2016 17:13,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,Short Trip,2020,Short Trip
+639,2016-08-08 21:50:00,8/8/2016 22:15,Business,Cary,Morrisville,4.8,,Short Trip,2020,Short Trip
+640,2016-08-08 23:28:00,8/8/2016 23:37,Business,Morrisville,Cary,3.2,Customer Visit,Short Trip,2020,Short Trip
+641,2016-08-09 14:20:00,8/9/2016 14:38,Business,Whitebridge,Waverly Place,6.9,,Long Trip,2020,Medium Trip
+642,2016-08-09 15:15:00,8/9/2016 15:36,Business,Cary,Raleigh,14.9,,Long Trip,2020,Long Trip
+643,2016-08-09 16:04:00,8/9/2016 16:37,Business,Raleigh,Cary,17.4,,Long Trip,2020,Long Trip
+644,2016-08-10 16:56:00,8/10/2016 17:24,Business,Cary,Durham,12.9,,Long Trip,2020,Long Trip
+645,2016-08-10 17:53:00,8/10/2016 18:28,Business,Durham,Apex,15.3,,Long Trip,2020,Long Trip
+646,2016-08-10 18:49:00,8/10/2016 18:50,Business,Apex,Apex,1.0,,Short Trip,2020,Short Trip
+647,2016-08-10 19:47:00,8/10/2016 20:02,Business,Apex,Cary,6.0,,Long Trip,2020,Medium Trip
+648,2016-08-11 12:53:00,8/11/2016 13:00,Business,Whitebridge,Heritage Pines,2.2,,Short Trip,2020,Short Trip
+649,2016-08-11 13:14:00,8/11/2016 13:28,Business,Heritage Pines,Edgehill Farms,4.4,,Short Trip,2020,Short Trip
+650,2016-08-11 13:32:00,8/11/2016 13:42,Business,Edgehill Farms,Whitebridge,2.8,,Short Trip,2020,Short Trip
+651,2016-08-11 18:37:00,8/11/2016 19:29,Business,Cary,Wake Forest,31.7,,Long Trip,2020,Long Trip
+652,2016-08-11 20:59:00,8/11/2016 21:44,Business,Wake Forest,Cary,31.9,,Long Trip,2020,Long Trip
+653,2016-08-12 18:49:00,8/12/2016 18:52,Business,Whitebridge,Westpark Place,1.9,,Short Trip,2020,Short Trip
+654,2016-08-12 18:56:00,8/12/2016 19:05,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+655,2016-08-13 15:35:00,8/13/2016 15:58,Business,Cary,Morrisville,8.4,Meeting,Long Trip,2020,Medium Trip
+656,2016-08-15 09:05:00,8/15/2016 9:52,Business,R?walpindi,Unknown Location,15.6,,Long Trip,2020,Long Trip
+657,2016-08-15 15:20:00,8/15/2016 15:47,Business,Unknown Location,Unknown Location,14.1,,Long Trip,2020,Long Trip
+658,2016-08-15 16:52:00,8/15/2016 17:30,Business,Unknown Location,Unknown Location,15.7,,Long Trip,2020,Long Trip
+659,2016-08-15 19:08:00,8/15/2016 20:30,Business,Unknown Location,Unknown Location,25.9,Temporary Site,Long Trip,2020,Long Trip
+660,2016-08-16 07:58:00,8/16/2016 8:11,Business,Unknown Location,Unknown Location,7.9,,Long Trip,2020,Medium Trip
+661,2016-08-16 08:16:00,8/16/2016 8:23,Business,Unknown Location,Unknown Location,2.7,,Short Trip,2020,Short Trip
+662,2016-08-16 08:46:00,8/16/2016 8:53,Business,Unknown Location,Unknown Location,5.5,,Long Trip,2020,Medium Trip
+663,2016-08-16 10:06:00,8/16/2016 10:27,Business,Unknown Location,Islamabad,5.7,,Long Trip,2020,Medium Trip
+664,2016-08-16 10:31:00,8/16/2016 10:38,Business,Islamabad,Islamabad,1.2,,Short Trip,2020,Short Trip
+665,2016-08-16 11:47:00,8/16/2016 12:03,Business,Islamabad,Unknown Location,5.7,Temporary Site,Long Trip,2020,Medium Trip
+666,2016-08-16 15:13:00,8/16/2016 15:36,Business,Unknown Location,Unknown Location,16.2,,Long Trip,2020,Long Trip
+667,2016-08-17 10:17:00,8/17/2016 10:41,Business,Unknown Location,Unknown Location,2.6,,Short Trip,2020,Short Trip
+668,2016-08-17 10:57:00,8/17/2016 11:20,Business,Unknown Location,Unknown Location,12.1,,Long Trip,2020,Long Trip
+669,2016-08-17 14:45:00,8/17/2016 14:50,Business,Unknown Location,R?walpindi,1.4,,Short Trip,2020,Short Trip
+670,2016-08-17 15:32:00,8/17/2016 15:47,Business,R?walpindi,Islamabad,6.4,,Long Trip,2020,Medium Trip
+671,2016-08-17 16:29:00,8/17/2016 16:50,Business,Islamabad,Unknown Location,7.3,,Long Trip,2020,Medium Trip
+672,2016-08-17 16:54:00,8/17/2016 17:00,Business,Unknown Location,Unknown Location,5.3,,Long Trip,2020,Medium Trip
+673,2016-08-17 17:05:00,8/17/2016 17:34,Business,Unknown Location,Unknown Location,5.5,,Long Trip,2020,Medium Trip
+674,2016-08-17 18:38:00,8/17/2016 18:57,Business,Unknown Location,Unknown Location,7.7,Temporary Site,Long Trip,2020,Medium Trip
+675,2016-08-18 18:40:00,8/18/2016 19:07,Business,Unknown Location,Unknown Location,7.6,Temporary Site,Long Trip,2020,Medium Trip
+676,2016-08-19 08:24:00,8/19/2016 8:45,Business,Unknown Location,Noorpur Shahan,7.6,,Long Trip,2020,Medium Trip
+677,2016-08-19 08:54:00,8/19/2016 9:07,Business,Noorpur Shahan,Islamabad,3.3,,Short Trip,2020,Short Trip
+678,2016-08-19 09:27:00,8/19/2016 9:47,Business,Islamabad,R?walpindi,6.5,,Long Trip,2020,Medium Trip
+679,2016-08-19 10:57:00,8/19/2016 11:06,Business,R?walpindi,Unknown Location,2.0,,Short Trip,2020,Short Trip
+680,2016-08-19 12:07:00,8/19/2016 12:24,Business,Unknown Location,Islamabad,5.7,,Long Trip,2020,Medium Trip
+681,2016-08-19 15:51:00,8/19/2016 16:06,Business,Islamabad,Islamabad,3.2,,Short Trip,2020,Short Trip
+682,2016-08-19 17:12:00,8/19/2016 17:52,Business,Islamabad,Unknown Location,12.5,,Long Trip,2020,Long Trip
+683,2016-08-21 10:00:00,8/21/2016 10:29,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,Long Trip,2020,Medium Trip
+684,2016-08-21 14:05:00,8/21/2016 14:34,Business,Unknown Location,Unknown Location,7.7,,Long Trip,2020,Medium Trip
+685,2016-08-21 16:30:00,8/21/2016 17:02,Business,Unknown Location,Islamabad,12.2,,Long Trip,2020,Long Trip
+686,2016-08-21 18:10:00,8/21/2016 18:17,Business,Islamabad,Islamabad,1.4,,Short Trip,2020,Short Trip
+687,2016-08-21 18:48:00,8/21/2016 19:24,Business,Islamabad,Unknown Location,20.2,,Long Trip,2020,Long Trip
+688,2016-08-22 10:00:00,8/22/2016 10:44,Business,Unknown Location,Islamabad,9.8,,Long Trip,2020,Medium Trip
+689,2016-08-22 11:07:00,8/22/2016 11:23,Business,Islamabad,Unknown Location,6.3,,Long Trip,2020,Medium Trip
+690,2016-08-22 12:36:00,8/22/2016 12:49,Business,Unknown Location,Islamabad,4.9,,Short Trip,2020,Short Trip
+691,2016-08-22 13:02:00,8/22/2016 13:11,Business,Islamabad,Islamabad,1.5,,Short Trip,2020,Short Trip
+692,2016-08-22 14:07:00,8/22/2016 14:31,Business,Islamabad,Unknown Location,10.9,,Long Trip,2020,Long Trip
+693,2016-08-22 15:14:00,8/22/2016 15:49,Business,Unknown Location,Unknown Location,19.0,,Long Trip,2020,Long Trip
+694,2016-08-22 15:59:00,8/22/2016 17:16,Business,Unknown Location,Unknown Location,19.0,,Long Trip,2020,Long Trip
+695,2016-08-22 19:58:00,8/22/2016 20:50,Business,Unknown Location,R?walpindi,7.9,,Long Trip,2020,Medium Trip
+696,2016-08-22 20:53:00,8/22/2016 21:31,Business,R?walpindi,R?walpindi,4.1,,Short Trip,2020,Short Trip
+697,2016-08-22 22:31:00,8/22/2016 23:00,Business,R?walpindi,Unknown Location,18.7,,Long Trip,2020,Long Trip
+698,2016-08-23 08:10:00,8/23/2016 8:25,Business,Unknown Location,Noorpur Shahan,8.7,,Long Trip,2020,Medium Trip
+699,2016-08-23 09:35:00,8/23/2016 10:09,Business,Noorpur Shahan,Unknown Location,7.5,,Long Trip,2020,Medium Trip
+700,2016-08-23 12:59:00,8/23/2016 13:15,Business,Unknown Location,Noorpur Shahan,7.7,,Long Trip,2020,Medium Trip
+701,2016-08-23 13:19:00,8/23/2016 13:30,Business,Noorpur Shahan,Islamabad,4.4,,Short Trip,2020,Short Trip
+702,2016-08-23 13:49:00,8/23/2016 14:04,Business,Islamabad,Unknown Location,5.0,,Short Trip,2020,Medium Trip
+703,2016-08-23 15:07:00,8/23/2016 15:12,Business,Unknown Location,Unknown Location,1.9,,Short Trip,2020,Short Trip
+704,2016-08-23 15:15:00,8/23/2016 17:16,Business,Unknown Location,Unknown Location,7.9,,Long Trip,2020,Medium Trip
+705,2016-08-23 17:42:00,8/23/2016 18:31,Business,Unknown Location,Unknown Location,17.7,,Long Trip,2020,Long Trip
+706,2016-08-24 12:05:00,8/24/2016 12:56,Business,Unknown Location,Unknown Location,25.2,,Long Trip,2020,Long Trip
+707,2016-08-24 13:01:00,8/24/2016 15:25,Business,Unknown Location,Unknown Location,96.2,,Long Trip,2020,Long Trip
+708,2016-08-25 15:17:00,8/25/2016 16:22,Business,Unknown Location,Unknown Location,35.0,,Long Trip,2020,Long Trip
+709,2016-08-25 16:36:00,8/25/2016 16:56,Business,Unknown Location,Unknown Location,5.5,,Long Trip,2020,Medium Trip
+710,2016-08-25 17:19:00,8/25/2016 19:20,Business,Unknown Location,Unknown Location,50.4,,Long Trip,2020,Long Trip
+711,2016-08-25 19:25:00,8/25/2016 19:57,Business,Unknown Location,Lahore,9.2,,Long Trip,2020,Medium Trip
+712,2016-08-25 22:58:00,8/25/2016 23:16,Business,Lahore,Unknown Location,7.3,,Long Trip,2020,Medium Trip
+713,2016-08-26 09:06:00,8/26/2016 9:20,Business,Unknown Location,Unknown Location,5.0,,Short Trip,2020,Medium Trip
+714,2016-08-26 11:14:00,8/26/2016 11:26,Business,Unknown Location,Unknown Location,3.8,,Short Trip,2020,Short Trip
+715,2016-08-26 12:10:00,8/26/2016 12:20,Business,Unknown Location,Lahore,3.9,,Short Trip,2020,Short Trip
+716,2016-08-26 14:10:00,8/26/2016 14:33,Business,Lahore,Lahore,7.4,,Long Trip,2020,Medium Trip
+717,2016-08-26 15:23:00,8/26/2016 15:35,Business,Lahore,Lahore,1.5,,Short Trip,2020,Short Trip
+718,2016-08-26 15:59:00,8/26/2016 16:24,Business,Lahore,Unknown Location,7.9,,Long Trip,2020,Medium Trip
+719,2016-08-26 16:55:00,8/26/2016 17:12,Business,Unknown Location,Lahore,2.9,,Short Trip,2020,Short Trip
+720,2016-08-26 18:42:00,8/26/2016 18:56,Business,Lahore,Lahore,3.4,,Short Trip,2020,Short Trip
+721,2016-08-26 19:31:00,8/26/2016 19:54,Business,Lahore,Lahore,3.8,,Short Trip,2020,Short Trip
+722,2016-08-26 20:06:00,8/26/2016 20:16,Business,Lahore,Unknown Location,5.9,,Long Trip,2020,Medium Trip
+723,2016-08-27 09:34:00,8/27/2016 10:11,Business,Unknown Location,Lahore,9.6,,Long Trip,2020,Medium Trip
+724,2016-08-27 11:47:00,8/27/2016 12:06,Business,Lahore,Lahore,7.0,,Long Trip,2020,Medium Trip
+725,2016-08-27 12:12:00,8/27/2016 12:17,Business,Lahore,Lahore,0.9,,Short Trip,2020,Short Trip
+726,2016-08-27 14:01:00,8/27/2016 15:44,Business,Lahore,Unknown Location,86.6,,Long Trip,2020,Long Trip
+727,2016-08-27 16:15:00,8/27/2016 19:13,Business,Unknown Location,Unknown Location,156.9,,Long Trip,2020,Long Trip
+728,2016-08-28 09:57:00,8/28/2016 10:18,Business,Unknown Location,Noorpur Shahan,10.1,,Long Trip,2020,Long Trip
+729,2016-08-28 16:39:00,8/28/2016 16:55,Business,Noorpur Shahan,Islamabad,6.2,,Long Trip,2020,Medium Trip
+730,2016-08-28 17:37:00,8/28/2016 17:55,Business,Islamabad,Islamabad,5.3,,Long Trip,2020,Medium Trip
+731,2016-08-28 21:15:00,8/28/2016 21:59,Business,Islamabad,Unknown Location,12.1,,Long Trip,2020,Long Trip
+732,2016-08-29 12:02:00,8/29/2016 12:31,Business,Unknown Location,Islamabad,10.8,,Long Trip,2020,Long Trip
+733,2016-08-29 13:38:00,8/29/2016 13:48,Business,Islamabad,Islamabad,4.3,,Short Trip,2020,Short Trip
+734,2016-08-29 14:31:00,8/29/2016 14:41,Business,Islamabad,Islamabad,2.5,,Short Trip,2020,Short Trip
+735,2016-08-29 14:49:00,8/29/2016 15:04,Business,Islamabad,Unknown Location,5.7,Temporary Site,Long Trip,2020,Medium Trip
+736,2016-08-29 15:49:00,8/29/2016 15:59,Business,Unknown Location,Islamabad,2.8,,Short Trip,2020,Short Trip
+737,2016-08-29 16:06:00,8/29/2016 16:21,Business,Islamabad,Unknown Location,4.0,,Short Trip,2020,Short Trip
+738,2016-08-29 17:24:00,8/29/2016 17:41,Business,Unknown Location,Islamabad,5.5,,Long Trip,2020,Medium Trip
+739,2016-08-29 18:27:00,8/29/2016 18:36,Business,Islamabad,Islamabad,2.6,,Short Trip,2020,Short Trip
+740,2016-08-30 11:53:00,8/30/2016 12:05,Business,Unknown Location,Unknown Location,2.1,,Short Trip,2020,Short Trip
+741,2016-08-30 12:46:00,8/30/2016 13:09,Business,Unknown Location,Islamabad,8.8,,Long Trip,2020,Medium Trip
+742,2016-08-30 13:25:00,8/30/2016 13:46,Business,Islamabad,Islamabad,4.4,,Short Trip,2020,Short Trip
+743,2016-08-30 14:00:00,8/30/2016 14:20,Business,Islamabad,Unknown Location,5.3,,Long Trip,2020,Medium Trip
+744,2016-08-30 17:27:00,8/30/2016 18:09,Business,Unknown Location,Unknown Location,13.0,,Long Trip,2020,Long Trip
+745,2016-09-01 11:51:00,9/1/2016 12:24,Business,Unknown Location,Islamabad,13.0,,Long Trip,2020,Long Trip
+746,2016-09-01 17:21:00,9/1/2016 17:36,Business,Islamabad,Unknown Location,10.6,,Long Trip,2020,Long Trip
+747,2016-09-01 18:49:00,9/1/2016 19:08,Business,Unknown Location,Unknown Location,2.2,,Short Trip,2020,Short Trip
+748,2016-09-02 11:37:00,9/2/2016 12:24,Business,Unknown Location,Islamabad,9.2,,Long Trip,2020,Medium Trip
+749,2016-09-02 18:56:00,9/2/2016 19:37,Business,Unknown Location,Unknown Location,12.9,,Long Trip,2020,Long Trip
+750,2016-09-05 10:25:00,9/5/2016 10:44,Business,Unknown Location,R?walpindi,17.2,,Long Trip,2020,Long Trip
+751,2016-09-06 17:49:00,9/6/2016 17:49,Business,Unknown Location,Unknown Location,69.1,,Long Trip,2020,Long Trip
+752,2016-09-10 10:28:00,9/10/2016 10:45,Business,Unknown Location,Unknown Location,2.8,,Short Trip,2020,Short Trip
+753,2016-09-11 09:51:00,9/11/2016 9:55,Business,Unknown Location,Unknown Location,8.6,,Long Trip,2020,Medium Trip
+754,2016-09-11 21:40:00,9/11/2016 21:42,Business,Unknown Location,Unknown Location,9.8,,Long Trip,2020,Medium Trip
+755,2016-09-12 08:07:00,9/12/2016 8:12,Business,Unknown Location,Unknown Location,3.6,,Short Trip,2020,Short Trip
+756,2016-09-12 11:15:00,9/12/2016 11:24,Business,Unknown Location,Unknown Location,1.7,,Short Trip,2020,Short Trip
+757,2016-09-12 13:04:00,9/12/2016 13:44,Business,Unknown Location,Unknown Location,11.5,,Long Trip,2020,Long Trip
+758,2016-09-13 16:56:00,9/13/2016 17:02,Business,Unknown Location,Unknown Location,0.7,,Short Trip,2020,Short Trip
+759,2016-09-14 11:55:00,9/14/2016 11:59,Business,Unknown Location,Unknown Location,0.7,,Short Trip,2020,Short Trip
+760,2016-09-15 20:33:00,9/15/2016 20:38,Business,Unknown Location,Unknown Location,0.9,,Short Trip,2020,Short Trip
+761,2016-09-16 07:08:00,9/16/2016 7:08,Business,Unknown Location,Unknown Location,1.6,,Short Trip,2020,Short Trip
+762,2016-09-18 18:07:00,9/18/2016 18:11,Business,Unknown Location,Unknown Location,9.4,,Long Trip,2020,Medium Trip
+763,2016-09-19 06:18:00,9/19/2016 6:49,Business,R?walpindi,Unknown Location,18.2,,Long Trip,2020,Long Trip
+764,2016-09-19 14:40:00,9/19/2016 14:56,Business,Unknown Location,Islamabad,10.5,,Long Trip,2020,Long Trip
+765,2016-09-19 16:23:00,9/19/2016 16:31,Business,Islamabad,Unknown Location,5.7,,Long Trip,2020,Medium Trip
+766,2016-09-19 17:36:00,9/19/2016 18:20,Business,Unknown Location,Unknown Location,18.0,,Long Trip,2020,Long Trip
+767,2016-09-19 19:10:00,9/19/2016 19:49,Business,Unknown Location,Islamabad,18.3,,Long Trip,2020,Long Trip
+768,2016-09-20 11:29:00,9/20/2016 11:48,Business,Islamabad,Unknown Location,16.5,,Long Trip,2020,Long Trip
+769,2016-09-20 20:47:00,9/20/2016 22:47,Business,Unknown Location,R?walpindi,9.6,,Long Trip,2020,Medium Trip
+770,2016-09-23 13:15:00,9/23/2016 13:40,Business,Karachi,Karachi,2.9,,Short Trip,2020,Short Trip
+771,2016-09-24 14:34:00,9/24/2016 15:15,Business,Karachi,Unknown Location,8.2,,Long Trip,2020,Medium Trip
+772,2016-09-24 20:29:00,9/24/2016 20:33,Business,Unknown Location,Unknown Location,2.4,,Short Trip,2020,Short Trip
+773,2016-09-27 08:33:00,9/27/2016 8:35,Business,Unknown Location,Unknown Location,5.8,,Long Trip,2020,Medium Trip
+774,2016-09-27 13:21:00,9/27/2016 14:43,Business,Lahore,Lahore,9.8,,Long Trip,2020,Medium Trip
+775,2016-09-27 19:14:00,9/27/2016 20:34,Business,Lahore,Unknown Location,7.3,,Long Trip,2020,Medium Trip
+776,2016-09-27 21:01:00,9/28/2016 2:37,Business,Unknown Location,Unknown Location,195.6,,Long Trip,2020,Long Trip
+777,2016-09-28 17:21:00,9/28/2016 19:36,Business,Islamabad,Unknown Location,20.5,,Long Trip,2020,Long Trip
+778,2016-09-29 16:13:00,9/29/2016 18:47,Business,Unknown Location,Islamabad,12.6,,Long Trip,2020,Long Trip
+779,2016-09-30 17:39:00,9/30/2016 20:20,Business,Islamabad,Islamabad,37.7,,Long Trip,2020,Long Trip
+780,2016-09-30 20:59:00,9/30/2016 22:34,Business,Islamabad,Unknown Location,16.7,,Long Trip,2020,Long Trip
+781,2016-10-03 17:09:00,10/3/2016 17:12,Business,Unknown Location,Islamabad,10.5,,Long Trip,2020,Long Trip
+782,2016-10-03 18:17:00,10/3/2016 18:34,Business,Islamabad,Islamabad,2.8,,Short Trip,2020,Short Trip
+783,2016-10-03 18:51:00,10/3/2016 19:01,Business,Islamabad,Islamabad,1.6,,Short Trip,2020,Short Trip
+784,2016-10-03 22:04:00,10/3/2016 22:33,Business,Islamabad,Unknown Location,12.7,,Long Trip,2020,Long Trip
+785,2016-10-04 09:50:00,10/4/2016 10:52,Business,Unknown Location,Unknown Location,28.6,,Long Trip,2020,Long Trip
+786,2016-10-04 12:17:00,10/4/2016 12:18,Business,Unknown Location,Unknown Location,15.1,,Long Trip,2020,Long Trip
+787,2016-10-06 08:49:00,10/6/2016 11:36,Business,Unknown Location,R?walpindi,17.9,,Long Trip,2020,Long Trip
+788,2016-10-06 17:23:00,10/6/2016 17:40,Business,R?walpindi,Unknown Location,112.6,,Long Trip,2020,Long Trip
+789,2016-10-06 18:37:00,10/6/2016 18:39,Business,Unknown Location,Unknown Location,18.4,,Long Trip,2020,Long Trip
+790,2016-10-06 19:46:00,10/6/2016 20:26,Business,Unknown Location,Unknown Location,13.8,,Long Trip,2020,Long Trip
+791,2016-10-07 10:56:00,10/7/2016 10:59,Business,Unknown Location,Lahore,33.2,,Long Trip,2020,Long Trip
+792,2016-10-07 11:27:00,10/7/2016 11:50,Business,Lahore,Lahore,2.6,,Short Trip,2020,Short Trip
+793,2016-10-07 13:52:00,10/7/2016 14:08,Business,Lahore,Unknown Location,5.8,,Long Trip,2020,Medium Trip
+794,2016-10-07 14:29:00,10/7/2016 15:11,Business,Unknown Location,Lahore,8.3,,Long Trip,2020,Medium Trip
+795,2016-10-07 15:47:00,10/7/2016 16:02,Business,Lahore,Lahore,2.4,,Short Trip,2020,Short Trip
+796,2016-10-07 18:08:00,10/7/2016 18:27,Business,Lahore,Lahore,3.1,,Short Trip,2020,Short Trip
+797,2016-10-07 18:33:00,10/7/2016 19:01,Business,Lahore,Lahore,6.1,,Long Trip,2020,Medium Trip
+798,2016-10-08 15:03:00,10/8/2016 15:03,Business,Karachi,Karachi,3.6,,Short Trip,2020,Short Trip
+799,2016-10-08 18:15:00,10/8/2016 18:18,Business,Karachi,Unknown Location,8.0,,Long Trip,2020,Medium Trip
+800,2016-10-09 14:04:00,10/9/2016 14:23,Business,Unknown Location,Unknown Location,7.7,Temporary Site,Long Trip,2020,Medium Trip
+801,2016-10-10 17:22:00,10/10/2016 17:28,Business,Islamabad,Islamabad,1.7,,Short Trip,2020,Short Trip
+802,2016-10-10 17:33:00,10/10/2016 18:13,Business,Islamabad,Unknown Location,9.5,,Long Trip,2020,Medium Trip
+803,2016-10-11 01:27:00,10/11/2016 2:08,Business,Unknown Location,R?walpindi,17.1,Meeting,Long Trip,2020,Long Trip
+804,2016-10-12 19:18:00,10/12/2016 19:21,Business,R?walpindi,Unknown Location,18.4,,Long Trip,2020,Long Trip
+805,2016-10-13 11:20:00,10/13/2016 11:58,Business,Unknown Location,Islamabad,9.8,,Long Trip,2020,Medium Trip
+806,2016-10-13 12:08:00,10/13/2016 12:14,Business,Islamabad,Islamabad,1.0,,Short Trip,2020,Short Trip
+807,2016-10-13 13:02:00,10/13/2016 13:02,Business,Islamabad,Islamabad,0.7,,Short Trip,2020,Short Trip
+808,2016-10-13 13:37:00,10/13/2016 13:46,Business,Islamabad,Islamabad,2.3,,Short Trip,2020,Short Trip
+809,2016-10-13 16:08:00,10/13/2016 16:53,Business,Islamabad,Unknown Location,10.9,,Long Trip,2020,Long Trip
+810,2016-10-14 08:50:00,10/14/2016 9:44,Business,Unknown Location,R?walpindi,12.7,,Long Trip,2020,Long Trip
+811,2016-10-14 10:16:00,10/14/2016 10:52,Business,R?walpindi,Unknown Location,12.4,,Long Trip,2020,Long Trip
+812,2016-10-14 15:56:00,10/14/2016 16:20,Business,Unknown Location,Unknown Location,3.8,,Short Trip,2020,Short Trip
+813,2016-10-14 23:54:00,10/15/2016 2:06,Business,Unknown Location,R?walpindi,17.0,Meeting,Long Trip,2020,Long Trip
+814,2016-10-15 22:28:00,10/15/2016 22:48,Business,Morrisville,Morrisville,6.2,,Long Trip,2020,Medium Trip
+815,2016-10-16 00:01:00,10/16/2016 0:14,Business,Morrisville,Cary,3.1,,Short Trip,2020,Short Trip
+816,2016-10-16 12:52:00,10/16/2016 13:11,Business,Cary,Durham,10.5,Meeting,Long Trip,2020,Long Trip
+817,2016-10-16 14:40:00,10/16/2016 15:01,Business,Durham,Morrisville,8.1,,Long Trip,2020,Medium Trip
+818,2016-10-16 15:10:00,10/16/2016 15:19,Business,Morrisville,Cary,3.1,,Short Trip,2020,Short Trip
+819,2016-10-16 19:27:00,10/16/2016 19:33,Business,Whitebridge,Parkway,2.1,Meeting,Short Trip,2020,Short Trip
+820,2016-10-16 20:30:00,10/16/2016 20:39,Business,Cary,Morrisville,4.3,,Short Trip,2020,Short Trip
+821,2016-10-16 21:34:00,10/16/2016 21:41,Business,Morrisville,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+822,2016-10-17 15:19:00,10/17/2016 15:57,Business,Cary,Raleigh,20.6,,Long Trip,2020,Long Trip
+823,2016-10-17 16:29:00,10/17/2016 17:11,Business,Raleigh,Cary,17.6,,Long Trip,2020,Long Trip
+824,2016-10-17 18:02:00,10/17/2016 18:16,Business,Cary,Apex,5.6,,Long Trip,2020,Medium Trip
+825,2016-10-17 18:31:00,10/17/2016 18:45,Business,Apex,Apex,3.3,,Short Trip,2020,Short Trip
+826,2016-10-17 19:08:00,10/17/2016 19:25,Business,Apex,Cary,5.3,,Long Trip,2020,Medium Trip
+827,2016-10-18 08:12:00,10/18/2016 8:22,Business,Whitebridge,Edgehill Farms,3.3,,Short Trip,2020,Short Trip
+828,2016-10-18 08:53:00,10/18/2016 9:02,Business,Edgehill Farms,Whitebridge,3.3,,Short Trip,2020,Short Trip
+829,2016-10-18 10:41:00,10/18/2016 11:09,Business,Cary,Morrisville,7.9,Temporary Site,Long Trip,2020,Medium Trip
+830,2016-10-18 18:12:00,10/18/2016 18:33,Business,Oakland,Emeryville,13.0,,Long Trip,2020,Long Trip
+831,2016-10-18 19:03:00,10/18/2016 19:13,Business,Emeryville,Berkeley,3.0,,Short Trip,2020,Short Trip
+832,2016-10-18 20:31:00,10/18/2016 20:37,Business,Berkeley,Emeryville,3.0,,Short Trip,2020,Short Trip
+833,2016-10-19 09:33:00,10/19/2016 9:47,Business,Emeryville,Oakland,3.8,,Short Trip,2020,Short Trip
+834,2016-10-19 09:54:00,10/19/2016 10:21,Business,Oakland,San Francisco,9.5,,Long Trip,2020,Medium Trip
+835,2016-10-19 13:45:00,10/19/2016 13:56,Business,SOMISSPO,French Quarter,1.7,,Short Trip,2020,Short Trip
+836,2016-10-19 14:02:00,10/19/2016 14:31,Business,San Francisco,Berkeley,10.8,,Long Trip,2020,Long Trip
+837,2016-10-19 15:44:00,10/19/2016 16:02,Business,West Berkeley,North Berkeley Hills,4.1,,Short Trip,2020,Short Trip
+838,2016-10-19 16:06:00,10/19/2016 16:19,Business,North Berkeley Hills,Southside,2.2,,Short Trip,2020,Short Trip
+839,2016-10-19 16:33:00,10/19/2016 17:01,Business,Berkeley,Emeryville,4.6,,Short Trip,2020,Short Trip
+840,2016-10-20 11:26:00,10/20/2016 11:34,Business,Emeryville,Berkeley,3.1,,Short Trip,2020,Short Trip
+841,2016-10-20 12:19:00,10/20/2016 13:17,Business,Berkeley,San Jose,47.7,,Long Trip,2020,Long Trip
+842,2016-10-20 20:44:00,10/20/2016 21:37,Business,San Jose,Emeryville,44.6,,Long Trip,2020,Long Trip
+843,2016-10-21 10:06:00,10/21/2016 10:21,Business,Emeryville,Oakland,13.2,,Long Trip,2020,Long Trip
+844,2016-10-22 00:54:00,10/22/2016 1:09,Business,Morrisville,Cary,8.7,,Long Trip,2020,Medium Trip
+845,2016-10-22 13:26:00,10/22/2016 14:03,Business,Cary,Raleigh,17.2,,Long Trip,2020,Long Trip
+846,2016-10-22 17:08:00,10/22/2016 17:55,Business,Raleigh,Cary,14.0,,Long Trip,2020,Long Trip
+847,2016-10-23 09:24:00,10/23/2016 10:05,Business,Cary,Raleigh,28.1,,Long Trip,2020,Long Trip
+848,2016-10-23 12:17:00,10/23/2016 12:59,Business,Raleigh,Cary,28.2,,Long Trip,2020,Long Trip
+849,2016-10-23 19:04:00,10/23/2016 19:14,Business,Cary,Morrisville,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+850,2016-10-23 21:10:00,10/23/2016 21:25,Business,Morrisville,Cary,3.1,Customer Visit,Short Trip,2020,Short Trip
+851,2016-10-24 14:57:00,10/24/2016 15:26,Business,Cary,Durham,16.4,,Long Trip,2020,Long Trip
+852,2016-10-24 15:33:00,10/24/2016 16:13,Business,Durham,Morrisville,15.4,,Long Trip,2020,Long Trip
+853,2016-10-24 16:34:00,10/24/2016 16:41,Business,Morrisville,Cary,2.2,,Short Trip,2020,Short Trip
+854,2016-10-25 13:27:00,10/25/2016 14:08,Business,Cary,Apex,11.2,,Long Trip,2020,Long Trip
+855,2016-10-25 15:04:00,10/25/2016 15:11,Business,Apex,Eagle Rock,2.2,,Short Trip,2020,Short Trip
+856,2016-10-25 15:16:00,10/25/2016 15:33,Business,Eagle Rock,Cary,3.6,,Short Trip,2020,Short Trip
+857,2016-10-25 20:00:00,10/25/2016 20:11,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,Short Trip,2020,Short Trip
+858,2016-10-25 20:54:00,10/25/2016 21:03,Business,Savon Height,Parkway,4.9,,Short Trip,2020,Short Trip
+859,2016-10-25 22:24:00,10/25/2016 22:45,Business,Parkway,Whitebridge,8.7,Errand/Supplies,Long Trip,2020,Medium Trip
+860,2016-10-26 19:25:00,10/26/2016 19:31,Business,Whitebridge,Parkway,2.1,Meeting,Short Trip,2020,Short Trip
+861,2016-10-26 20:53:00,10/26/2016 21:03,Business,Parkway,Whitebridge,2.1,,Short Trip,2020,Short Trip
+862,2016-10-27 18:51:00,10/27/2016 19:16,Business,Cary,Morrisville,8.4,Meeting,Long Trip,2020,Medium Trip
+863,2016-10-27 19:20:00,10/27/2016 19:35,Business,Morrisville,Morrisville,5.9,,Long Trip,2020,Medium Trip
+864,2016-10-27 19:52:00,10/27/2016 20:21,Business,Huntington Woods,Huntington Woods,12.1,,Long Trip,2020,Long Trip
+865,2016-10-27 20:47:00,10/27/2016 20:54,Business,Huntington Woods,Weston,3.9,,Short Trip,2020,Short Trip
+866,2016-10-27 21:26:00,10/27/2016 21:48,Business,Morrisville,Cary,6.2,,Long Trip,2020,Medium Trip
+867,2016-10-28 11:34:00,10/28/2016 11:52,Business,Cary,Durham,10.4,Meeting,Long Trip,2020,Long Trip
+868,2016-10-28 13:06:00,10/28/2016 13:36,Business,Durham,Cary,9.9,Meeting,Long Trip,2020,Medium Trip
+869,2016-10-28 15:53:00,10/28/2016 17:59,Business,Cary,Winston Salem,107.0,Meeting,Long Trip,2020,Long Trip
+870,2016-10-28 18:13:00,10/28/2016 20:07,Business,Winston Salem,Asheville,133.6,Meeting,Long Trip,2020,Long Trip
+871,2016-10-28 20:13:00,10/28/2016 22:00,Business,Asheville,Topton,91.8,Meeting,Long Trip,2020,Long Trip
+872,2016-10-29 15:22:00,10/29/2016 17:05,Business,Topton,Hayesville,40.7,Meeting,Long Trip,2020,Long Trip
+873,2016-10-29 17:13:00,10/29/2016 19:19,Business,Hayesville,Topton,75.7,,Long Trip,2020,Long Trip
+874,2016-10-30 07:49:00,10/30/2016 8:30,Business,Topton,Bryson City,29.8,,Long Trip,2020,Long Trip
+875,2016-10-30 09:07:00,10/30/2016 10:09,Business,Bryson City,Bryson City,16.3,,Long Trip,2020,Long Trip
+876,2016-10-30 10:11:00,10/30/2016 10:38,Business,Bryson City,Bryson City,6.5,,Long Trip,2020,Medium Trip
+877,2016-10-30 10:51:00,10/30/2016 11:21,Business,Bryson City,Bryson City,6.3,,Long Trip,2020,Medium Trip
+878,2016-10-30 12:24:00,10/30/2016 12:35,Business,Bryson City,Almond,6.6,,Long Trip,2020,Medium Trip
+879,2016-10-30 12:58:00,10/30/2016 13:18,Business,Almond,Bryson City,15.2,,Long Trip,2020,Long Trip
+880,2016-10-30 13:24:00,10/30/2016 14:37,Business,Bryson City,Asheville,68.4,,Long Trip,2020,Long Trip
+881,2016-10-30 15:22:00,10/30/2016 18:23,Business,Asheville,Mebane,195.9,,Long Trip,2020,Long Trip
+882,2016-10-30 18:26:00,10/30/2016 19:39,Business,Mebane,Cary,45.2,,Long Trip,2020,Long Trip
+883,2016-10-31 18:11:00,10/31/2016 18:20,Business,Cary,Morrisville,3.2,,Short Trip,2020,Short Trip
+884,2016-10-31 18:47:00,10/31/2016 19:16,Business,Morrisville,Raleigh,10.3,,Long Trip,2020,Long Trip
+885,2016-10-31 20:18:00,10/31/2016 20:44,Business,Raleigh,Cary,13.1,,Long Trip,2020,Long Trip
+886,2016-10-31 21:45:00,10/31/2016 22:10,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,Long Trip,2020,Medium Trip
+887,2016-11-01 11:50:00,11/1/2016 12:27,Business,Cary,Durham,16.5,,Long Trip,2020,Long Trip
+888,2016-11-01 16:29:00,11/1/2016 17:02,Business,Durham,Cary,12.8,,Long Trip,2020,Long Trip
+889,2016-11-01 17:35:00,11/1/2016 17:42,Business,Whitebridge,Whitebridge,1.2,,Short Trip,2020,Short Trip
+890,2016-11-01 19:14:00,11/1/2016 19:20,Business,Whitebridge,Whitebridge,1.0,,Short Trip,2020,Short Trip
+891,2016-11-01 19:59:00,11/1/2016 20:12,Business,Whitebridge,Whitebridge,4.1,,Short Trip,2020,Short Trip
+892,2016-11-01 20:41:00,11/1/2016 20:55,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,Short Trip,2020,Short Trip
+893,2016-11-02 15:10:00,11/2/2016 15:18,Business,Whitebridge,Westpark Place,1.4,,Short Trip,2020,Short Trip
+894,2016-11-02 15:45:00,11/2/2016 15:52,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+895,2016-11-02 16:46:00,11/2/2016 17:11,Business,Cary,Morrisville,8.5,Meeting,Long Trip,2020,Medium Trip
+896,2016-11-02 17:34:00,11/2/2016 17:49,Business,Morrisville,Morrisville,5.0,,Short Trip,2020,Medium Trip
+897,2016-11-02 17:53:00,11/2/2016 18:00,Business,Morrisville,Cary,3.8,,Short Trip,2020,Short Trip
+898,2016-11-03 11:28:00,11/3/2016 11:34,Business,Whitebridge,Hazelwood,2.5,,Short Trip,2020,Short Trip
+899,2016-11-03 12:43:00,11/3/2016 12:49,Business,Hazelwood,Whitebridge,2.4,,Short Trip,2020,Short Trip
+900,2016-11-03 13:42:00,11/3/2016 13:47,Business,Whitebridge,Westpark Place,1.4,,Short Trip,2020,Short Trip
+901,2016-11-03 14:13:00,11/3/2016 14:26,Business,Westpark Place,Whitebridge,1.8,,Short Trip,2020,Short Trip
+902,2016-11-03 18:51:00,11/3/2016 19:08,Business,Cary,Morrisville,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+903,2016-11-03 22:46:00,11/3/2016 22:58,Business,Morrisville,Cary,3.1,Customer Visit,Short Trip,2020,Short Trip
+904,2016-11-04 10:02:00,11/4/2016 10:18,Business,Cary,Morrisville,7.9,Temporary Site,Long Trip,2020,Medium Trip
+905,2016-11-04 18:14:00,11/4/2016 18:21,Business,San Jose,Santa Clara,3.8,,Short Trip,2020,Short Trip
+906,2016-11-04 21:04:00,11/4/2016 21:20,Business,Agnew,Cory,4.3,,Short Trip,2020,Short Trip
+907,2016-11-04 22:12:00,11/4/2016 22:25,Business,Cory,Agnew,3.9,,Short Trip,2020,Short Trip
+908,2016-11-05 08:34:00,11/5/2016 8:43,Business,Agnew,Renaissance,2.2,,Short Trip,2020,Short Trip
+909,2016-11-05 17:29:00,11/5/2016 17:40,Business,Renaissance,Agnew,2.8,,Short Trip,2020,Short Trip
+910,2016-11-05 19:20:00,11/5/2016 19:28,Business,Agnew,Agnew,2.2,,Short Trip,2020,Short Trip
+911,2016-11-06 10:50:00,11/6/2016 11:04,Business,Agnew,Renaissance,2.4,,Short Trip,2020,Short Trip
+912,2016-11-06 16:05:00,11/6/2016 16:22,Business,Renaissance,Agnew,2.8,Meeting,Short Trip,2020,Short Trip
+913,2016-11-06 16:27:00,11/6/2016 17:28,Business,Santa Clara,Berkeley,43.9,Customer Visit,Long Trip,2020,Long Trip
+914,2016-11-06 19:04:00,11/6/2016 19:12,Business,Downtown,West Berkeley,1.8,,Short Trip,2020,Short Trip
+915,2016-11-06 20:06:00,11/6/2016 20:21,Business,West Berkeley,Central,3.3,,Short Trip,2020,Short Trip
+916,2016-11-07 12:28:00,11/7/2016 12:57,Business,Berkeley,San Francisco,11.8,Between Offices,Long Trip,2020,Long Trip
+917,2016-11-07 19:17:00,11/7/2016 19:57,Business,San Francisco,Berkeley,13.2,Between Offices,Long Trip,2020,Long Trip
+918,2016-11-08 10:29:00,11/8/2016 10:57,Business,Berkeley,San Francisco,12.2,Between Offices,Long Trip,2020,Long Trip
+919,2016-11-08 12:16:00,11/8/2016 12:49,Business,San Francisco,Berkeley,11.3,Meeting,Long Trip,2020,Long Trip
+920,2016-11-08 13:41:00,11/8/2016 14:01,Business,Berkeley,Emeryville,3.6,,Short Trip,2020,Short Trip
+921,2016-11-08 16:21:00,11/8/2016 16:34,Business,Emeryville,Berkeley,3.0,,Short Trip,2020,Short Trip
+922,2016-11-09 13:08:00,11/9/2016 13:41,Business,Berkeley,San Francisco,11.4,,Long Trip,2020,Long Trip
+923,2016-11-09 15:58:00,11/9/2016 16:04,Business,NOMA,Downtown,0.9,,Short Trip,2020,Short Trip
+924,2016-11-09 17:31:00,11/9/2016 18:03,Business,Downtown,Sunnyside,6.2,,Long Trip,2020,Medium Trip
+925,2016-11-09 18:09:00,11/9/2016 18:14,Business,Sunnyside,Ingleside,0.7,,Short Trip,2020,Short Trip
+926,2016-11-09 18:21:00,11/9/2016 18:35,Business,Ingleside,Potrero Flats,5.5,Meeting,Long Trip,2020,Medium Trip
+927,2016-11-09 18:40:00,11/9/2016 19:17,Business,San Francisco,Oakland,12.7,Customer Visit,Long Trip,2020,Long Trip
+928,2016-11-09 20:52:00,11/9/2016 21:02,Business,Oakland,Berkeley,2.6,,Short Trip,2020,Short Trip
+929,2016-11-09 21:56:00,11/9/2016 22:02,Business,Central,Central,1.1,,Short Trip,2020,Short Trip
+930,2016-11-10 09:46:00,11/10/2016 10:15,Business,Berkeley,San Francisco,12.6,Temporary Site,Long Trip,2020,Long Trip
+931,2016-11-10 10:20:00,11/10/2016 10:31,Business,Tenderloin,SOMISSPO,1.2,,Short Trip,2020,Short Trip
+932,2016-11-10 14:57:00,11/10/2016 15:07,Business,SOMISSPO,Tenderloin,1.1,,Short Trip,2020,Short Trip
+933,2016-11-10 15:17:00,11/10/2016 15:22,Business,San Francisco,Oakland,9.9,Temporary Site,Long Trip,2020,Medium Trip
+934,2016-11-10 15:30:00,11/10/2016 15:53,Business,Oakland,Berkeley,6.0,Meeting,Long Trip,2020,Medium Trip
+935,2016-11-10 19:18:00,11/10/2016 19:21,Business,West Berkeley,Central,0.8,,Short Trip,2020,Short Trip
+936,2016-11-11 09:35:00,11/11/2016 10:23,Business,Berkeley,Menlo Park,45.9,Customer Visit,Long Trip,2020,Long Trip
+937,2016-11-11 12:58:00,11/11/2016 13:13,Business,Menlo Park,Palo Alto,4.0,,Short Trip,2020,Short Trip
+938,2016-11-11 14:20:00,11/11/2016 14:32,Business,Palo Alto,Menlo Park,2.5,,Short Trip,2020,Short Trip
+939,2016-11-11 14:39:00,11/11/2016 15:46,Business,Menlo Park,Berkeley,36.6,Customer Visit,Long Trip,2020,Long Trip
+940,2016-11-11 18:30:00,11/11/2016 18:43,Business,Central,College Avenue,2.9,,Short Trip,2020,Short Trip
+941,2016-11-11 21:08:00,11/11/2016 21:18,Business,College Avenue,Central,2.6,,Short Trip,2020,Short Trip
+942,2016-11-12 10:32:00,11/12/2016 10:52,Business,Central,South,2.3,,Short Trip,2020,Short Trip
+943,2016-11-12 10:55:00,11/12/2016 11:25,Business,South,Downtown,6.4,,Long Trip,2020,Medium Trip
+944,2016-11-12 13:07:00,11/12/2016 13:15,Business,Downtown,Central,1.4,,Short Trip,2020,Short Trip
+945,2016-11-12 13:46:00,11/12/2016 13:50,Business,Central,West Berkeley,0.6,,Short Trip,2020,Short Trip
+946,2016-11-12 14:22:00,11/12/2016 14:53,Business,West Berkeley,South,5.9,Meeting,Long Trip,2020,Medium Trip
+947,2016-11-12 15:14:00,11/12/2016 15:21,Business,South,Southwest Berkeley,0.8,,Short Trip,2020,Short Trip
+948,2016-11-12 15:25:00,11/12/2016 15:36,Business,Berkeley,Emeryville,1.3,,Short Trip,2020,Short Trip
+949,2016-11-12 15:40:00,11/12/2016 15:59,Business,Emeryville,Berkeley,3.7,Errand/Supplies,Short Trip,2020,Short Trip
+950,2016-11-13 08:54:00,11/13/2016 9:02,Business,Central,Central,2.3,,Short Trip,2020,Short Trip
+951,2016-11-13 09:27:00,11/13/2016 9:53,Business,Central,Central,2.6,,Short Trip,2020,Short Trip
+952,2016-11-13 10:31:00,11/13/2016 10:37,Business,Central,Southside,1.9,,Short Trip,2020,Short Trip
+953,2016-11-13 11:04:00,11/13/2016 11:16,Business,Southside,West Berkeley,2.1,,Short Trip,2020,Short Trip
+954,2016-11-13 12:22:00,11/13/2016 12:51,Business,West Berkeley,Southside,4.0,Meeting,Short Trip,2020,Short Trip
+955,2016-11-13 13:05:00,11/13/2016 13:11,Business,Southside,South Berkeley,0.9,,Short Trip,2020,Short Trip
+956,2016-11-13 13:14:00,11/13/2016 13:18,Business,South Berkeley,Southside,0.9,,Short Trip,2020,Short Trip
+957,2016-11-13 14:35:00,11/13/2016 14:46,Business,Southside,Central,2.4,,Short Trip,2020,Short Trip
+958,2016-11-13 15:14:00,11/13/2016 15:24,Business,Central,Southside,1.9,,Short Trip,2020,Short Trip
+959,2016-11-13 15:47:00,11/13/2016 15:59,Business,Southside,Central,1.9,,Short Trip,2020,Short Trip
+960,2016-11-14 11:24:00,11/14/2016 12:13,Business,Berkeley,Mountain View,44.6,Customer Visit,Long Trip,2020,Long Trip
+961,2016-11-14 13:40:00,11/14/2016 14:33,Business,Mountain View,Berkeley,43.6,Customer Visit,Long Trip,2020,Long Trip
+962,2016-11-14 15:27:00,11/14/2016 15:36,Business,Berkeley,Emeryville,2.5,,Short Trip,2020,Short Trip
+963,2016-11-14 20:19:00,11/14/2016 20:30,Business,Emeryville,Berkeley,3.7,Errand/Supplies,Short Trip,2020,Short Trip
+964,2016-11-15 13:59:00,11/15/2016 14:06,Business,Berkeley,Oakland,5.1,,Long Trip,2020,Medium Trip
+965,2016-11-15 14:09:00,11/15/2016 14:26,Business,Oakland,San Francisco,9.7,Temporary Site,Long Trip,2020,Medium Trip
+966,2016-11-15 20:44:00,11/15/2016 21:00,Business,San Francisco,Berkeley,11.8,Temporary Site,Long Trip,2020,Long Trip
+967,2016-11-16 20:21:00,11/16/2016 20:27,Business,Berkeley,El Cerrito,2.3,Temporary Site,Short Trip,2020,Short Trip
+968,2016-11-16 22:52:00,11/16/2016 23:02,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+969,2016-11-17 10:13:00,11/17/2016 10:44,Business,Berkeley,Oakland,16.3,Customer Visit,Long Trip,2020,Long Trip
+970,2016-11-18 20:09:00,11/18/2016 20:19,Business,Cary,Morrisville,3.1,Meal/Entertain,Short Trip,2020,Short Trip
+971,2016-11-18 21:23:00,11/18/2016 21:34,Business,Morrisville,Cary,5.2,Meal/Entertain,Long Trip,2020,Medium Trip
+972,2016-11-18 21:56:00,11/18/2016 22:21,Business,Krendle Woods,Whitebridge,6.1,Meeting,Long Trip,2020,Medium Trip
+973,2016-11-19 13:51:00,11/19/2016 14:10,Business,Cary,Durham,10.3,Meeting,Long Trip,2020,Long Trip
+974,2016-11-19 14:30:00,11/19/2016 14:51,Business,Durham,Cary,10.5,Meeting,Long Trip,2020,Long Trip
+975,2016-11-19 16:01:00,11/19/2016 16:06,Business,Cary,Cary,1.5,,Short Trip,2020,Short Trip
+976,2016-11-19 16:27:00,11/19/2016 16:41,Business,Cary,Cary,1.8,,Short Trip,2020,Short Trip
+977,2016-11-19 17:41:00,11/19/2016 17:54,Business,Cary,Apex,5.4,Errand/Supplies,Long Trip,2020,Medium Trip
+978,2016-11-19 21:14:00,11/19/2016 21:35,Business,Apex,Cary,5.4,Customer Visit,Long Trip,2020,Medium Trip
+979,2016-11-20 10:27:00,11/20/2016 11:32,Business,Cary,Cary,39.2,Between Offices,Long Trip,2020,Long Trip
+980,2016-11-20 11:58:00,11/20/2016 12:28,Business,Cary,Cary,6.4,Customer Visit,Long Trip,2020,Medium Trip
+981,2016-11-20 14:58:00,11/20/2016 15:07,Business,Cary,Cary,2.7,Meeting,Short Trip,2020,Short Trip
+982,2016-11-20 17:45:00,11/20/2016 18:37,Business,Cary,Cary,18.5,Errand/Supplies,Long Trip,2020,Long Trip
+983,2016-11-21 13:37:00,11/21/2016 13:49,Business,Cary,Cary,2.5,Meal/Entertain,Short Trip,2020,Short Trip
+984,2016-11-21 14:34:00,11/21/2016 14:44,Business,Cary,Cary,2.1,Meal/Entertain,Short Trip,2020,Short Trip
+985,2016-11-21 17:50:00,11/21/2016 18:04,Business,Cary,Unknown Location,6.7,Errand/Supplies,Long Trip,2020,Medium Trip
+986,2016-11-21 18:18:00,11/21/2016 18:27,Business,Unknown Location,Morrisville,3.5,Meal/Entertain,Short Trip,2020,Short Trip
+987,2016-11-21 18:43:00,11/21/2016 18:51,Business,Morrisville,Cary,3.4,Errand/Supplies,Short Trip,2020,Short Trip
+988,2016-11-22 15:12:00,11/22/2016 15:27,Business,Cary,Cary,5.5,Meeting,Long Trip,2020,Medium Trip
+989,2016-11-22 15:31:00,11/22/2016 15:44,Business,Cary,Cary,4.1,Meeting,Short Trip,2020,Short Trip
+990,2016-11-22 15:51:00,11/22/2016 16:43,Business,Cary,Cary,12.7,Customer Visit,Long Trip,2020,Long Trip
+991,2016-11-22 18:18:00,11/22/2016 18:28,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+992,2016-11-22 21:02:00,11/22/2016 21:14,Business,Morrisville,Cary,3.5,Customer Visit,Short Trip,2020,Short Trip
+993,2016-11-23 15:34:00,11/23/2016 15:50,Business,Cary,Cary,5.9,Meal/Entertain,Long Trip,2020,Medium Trip
+994,2016-11-23 16:18:00,11/23/2016 16:29,Business,Cary,Cary,1.9,,Short Trip,2020,Short Trip
+995,2016-11-23 16:49:00,11/23/2016 17:00,Business,Cary,Cary,3.3,,Short Trip,2020,Short Trip
+996,2016-11-23 18:37:00,11/23/2016 18:47,Business,Cary,Cary,1.3,,Short Trip,2020,Short Trip
+997,2016-11-25 11:47:00,11/25/2016 12:04,Business,Cary,Durham,10.3,Meeting,Long Trip,2020,Long Trip
+998,2016-11-25 13:13:00,11/25/2016 13:31,Business,Durham,Cary,11.1,Meeting,Long Trip,2020,Long Trip
+999,2016-11-26 15:54:00,11/26/2016 15:59,Business,Cary,Cary,1.4,,Short Trip,2020,Short Trip
+1000,2016-11-26 17:00:00,11/26/2016 17:12,Business,Cary,Apex,5.1,Meeting,Long Trip,2020,Medium Trip
+1001,2016-11-26 17:36:00,11/26/2016 17:56,Business,Apex,Holly Springs,9.0,Meeting,Long Trip,2020,Medium Trip
+1002,2016-11-26 18:29:00,11/26/2016 19:04,Business,Holly Springs,Cary,13.3,Between Offices,Long Trip,2020,Long Trip
+1003,2016-11-26 19:47:00,11/26/2016 19:54,Business,Cary,Cary,2.5,Errand/Supplies,Short Trip,2020,Short Trip
+1004,2016-11-27 15:59:00,11/27/2016 16:06,Business,Cary,Morrisville,3.3,Meal/Entertain,Short Trip,2020,Short Trip
+1005,2016-11-27 18:55:00,11/27/2016 19:09,Business,Morrisville,Cary,2.9,,Short Trip,2020,Short Trip
+1006,2016-11-30 11:03:00,11/30/2016 11:34,Business,Cary,Raleigh,8.5,Customer Visit,Long Trip,2020,Medium Trip
+1007,2016-11-30 11:53:00,11/30/2016 12:35,Business,Raleigh,Morrisville,6.7,Temporary Site,Long Trip,2020,Medium Trip
+1008,2016-11-30 12:43:00,11/30/2016 12:53,Business,Morrisville,Cary,3.1,,Short Trip,2020,Short Trip
+1009,2016-12-01 07:44:00,12/1/2016 7:59,Business,Cary,Cary,5.5,Meeting,Long Trip,2020,Medium Trip
+1010,2016-12-01 08:37:00,12/1/2016 8:53,Business,Cary,Cary,5.5,Errand/Supplies,Long Trip,2020,Medium Trip
+1011,2016-12-01 18:00:00,12/1/2016 18:12,Business,Cary,Morrisville,2.9,Meal/Entertain,Short Trip,2020,Short Trip
+1012,2016-12-01 20:36:00,12/1/2016 20:46,Business,Morrisville,Cary,2.9,Customer Visit,Short Trip,2020,Short Trip
+1013,2016-12-02 12:12:00,12/2/2016 12:23,Business,Cary,Apex,5.1,Meal/Entertain,Long Trip,2020,Medium Trip
+1014,2016-12-02 13:07:00,12/2/2016 13:22,Business,Apex,Cary,5.3,Customer Visit,Long Trip,2020,Medium Trip
+1015,2016-12-02 20:41:00,12/2/2016 20:48,Business,Cary,Morrisville,3.3,Meal/Entertain,Short Trip,2020,Short Trip
+1016,2016-12-02 22:59:00,12/2/2016 23:07,Business,Morrisville,Cary,3.0,Customer Visit,Short Trip,2020,Short Trip
+1017,2016-12-03 18:35:00,12/3/2016 18:56,Business,Cary,Wake Co.,6.6,Errand/Supplies,Long Trip,2020,Medium Trip
+1018,2016-12-03 19:08:00,12/3/2016 19:15,Business,Wake Co.,Morrisville,1.8,,Short Trip,2020,Short Trip
+1019,2016-12-03 20:31:00,12/3/2016 20:41,Business,Morrisville,Cary,3.0,Customer Visit,Short Trip,2020,Short Trip
+1020,2016-12-04 18:56:00,12/4/2016 19:03,Business,Cary,Morrisville,2.9,Meal/Entertain,Short Trip,2020,Short Trip
+1021,2016-12-04 20:23:00,12/4/2016 20:34,Business,Morrisville,Cary,3.4,Customer Visit,Short Trip,2020,Short Trip
+1022,2016-12-05 18:04:00,12/5/2016 18:17,Business,Cary,Cary,4.1,,Short Trip,2020,Short Trip
+1023,2016-12-05 19:22:00,12/5/2016 19:37,Business,Cary,Cary,3.8,Meal/Entertain,Short Trip,2020,Short Trip
+1024,2016-12-07 12:03:00,12/7/2016 12:32,Business,Cary,Cary,6.6,Meeting,Long Trip,2020,Medium Trip
+1025,2016-12-07 12:35:00,12/7/2016 12:46,Business,Cary,Cary,4.0,Meeting,Short Trip,2020,Short Trip
+1026,2016-12-07 19:53:00,12/7/2016 20:13,Business,Cary,Cary,7.0,Customer Visit,Long Trip,2020,Medium Trip
+1027,2016-12-07 21:13:00,12/7/2016 21:50,Business,Cary,Cary,6.9,Meal/Entertain,Long Trip,2020,Medium Trip
+1028,2016-12-08 14:19:00,12/8/2016 14:32,Business,Cary,Cary,3.4,Errand/Supplies,Short Trip,2020,Short Trip
+1029,2016-12-08 14:53:00,12/8/2016 15:02,Business,Cary,Cary,3.4,Errand/Supplies,Short Trip,2020,Short Trip
+1030,2016-12-08 19:22:00,12/8/2016 19:27,Business,Cary,Cary,2.0,Meeting,Short Trip,2020,Short Trip
+1031,2016-12-08 21:26:00,12/8/2016 21:31,Business,Cary,Cary,2.0,Errand/Supplies,Short Trip,2020,Short Trip
+1032,2016-12-09 12:09:00,12/9/2016 12:24,Business,Cary,Apex,5.1,Errand/Supplies,Long Trip,2020,Medium Trip
+1033,2016-12-09 13:15:00,12/9/2016 13:43,Business,Apex,Cary,8.8,Temporary Site,Long Trip,2020,Medium Trip
+1034,2016-12-09 20:11:00,12/9/2016 20:34,Business,Cary,Cary,5.6,Meeting,Long Trip,2020,Medium Trip
+1035,2016-12-09 22:03:00,12/9/2016 22:57,Business,Cary,Cary,18.9,Customer Visit,Long Trip,2020,Long Trip
+1036,2016-12-10 12:43:00,12/10/2016 13:16,Business,Cary,Fuquay-Varina,15.6,Meeting,Long Trip,2020,Long Trip
+1037,2016-12-10 14:42:00,12/10/2016 15:18,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,Long Trip,2020,Long Trip
+1038,2016-12-10 18:17:00,12/10/2016 18:27,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+1039,2016-12-10 22:09:00,12/10/2016 22:21,Business,Morrisville,Cary,3.1,Customer Visit,Short Trip,2020,Short Trip
+1040,2016-12-11 16:06:00,12/11/2016 16:16,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+1041,2016-12-11 19:05:00,12/11/2016 19:15,Business,Morrisville,Cary,4.8,Errand/Supplies,Short Trip,2020,Short Trip
+1042,2016-12-11 21:48:00,12/11/2016 21:56,Business,Cary,Cary,2.1,Errand/Supplies,Short Trip,2020,Short Trip
+1043,2016-12-12 13:22:00,12/12/2016 13:32,Business,Cary,Cary,3.1,Errand/Supplies,Short Trip,2020,Short Trip
+1044,2016-12-12 13:36:00,12/12/2016 13:51,Business,Cary,Apex,4.4,Meal/Entertain,Short Trip,2020,Short Trip
+1045,2016-12-12 14:26:00,12/12/2016 14:39,Business,Apex,Cary,4.7,Customer Visit,Short Trip,2020,Short Trip
+1046,2016-12-12 17:51:00,12/12/2016 18:01,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+1047,2016-12-12 20:48:00,12/12/2016 20:57,Business,Morrisville,Cary,3.0,Customer Visit,Short Trip,2020,Short Trip
+1048,2016-12-13 18:19:00,12/13/2016 18:29,Business,Cary,Cary,4.2,Errand/Supplies,Short Trip,2020,Short Trip
+1049,2016-12-13 20:20:00,12/13/2016 20:29,Business,Cary,Cary,4.1,Meal/Entertain,Short Trip,2020,Short Trip
+1050,2016-12-14 16:52:00,12/14/2016 17:10,Business,Cary,Cary,3.4,,Short Trip,2020,Short Trip
+1051,2016-12-14 17:22:00,12/14/2016 17:34,Business,Cary,Cary,3.3,,Short Trip,2020,Short Trip
+1052,2016-12-14 17:50:00,12/14/2016 18:00,Business,Cary,Morrisville,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+1053,2016-12-14 20:24:00,12/14/2016 20:40,Business,Morrisville,Cary,3.1,Customer Visit,Short Trip,2020,Short Trip
+1054,2016-12-15 14:20:00,12/15/2016 14:54,Business,Cary,Morrisville,10.6,Meeting,Long Trip,2020,Long Trip
+1055,2016-12-17 15:38:00,12/17/2016 16:12,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,Short Trip,2020,Short Trip
+1056,2016-12-17 17:19:00,12/17/2016 17:59,Business,Unknown Location,Unknown Location,5.3,Temporary Site,Long Trip,2020,Medium Trip
+1057,2016-12-18 13:03:00,12/18/2016 13:41,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,Short Trip,2020,Short Trip
+1058,2016-12-18 16:38:00,12/18/2016 17:25,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,Long Trip,2020,Long Trip
+1059,2016-12-18 20:35:00,12/18/2016 21:04,Business,Unknown Location,Unknown Location,9.2,,Long Trip,2020,Medium Trip
+1060,2016-12-19 09:08:00,12/19/2016 9:36,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,Long Trip,2020,Medium Trip
+1061,2016-12-19 10:15:00,12/19/2016 10:34,Business,Islamabad,Rawalpindi,5.9,Temporary Site,Long Trip,2020,Medium Trip
+1062,2016-12-19 13:04:00,12/19/2016 13:08,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,Short Trip,2020,Short Trip
+1063,2016-12-19 13:24:00,12/19/2016 13:35,Business,Unknown Location,Unknown Location,1.3,,Short Trip,2020,Short Trip
+1064,2016-12-19 14:07:00,12/19/2016 14:15,Business,Unknown Location,Unknown Location,2.5,,Short Trip,2020,Short Trip
+1065,2016-12-19 14:18:00,12/19/2016 14:32,Business,Unknown Location,Unknown Location,5.3,,Long Trip,2020,Medium Trip
+1066,2016-12-19 14:37:00,12/19/2016 14:50,Business,Unknown Location,Unknown Location,5.4,,Long Trip,2020,Medium Trip
+1067,2016-12-19 15:09:00,12/19/2016 15:38,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,Long Trip,2020,Long Trip
+1068,2016-12-19 16:50:00,12/19/2016 17:09,Business,Rawalpindi,Islamabad,7.2,Customer Visit,Long Trip,2020,Medium Trip
+1069,2016-12-19 19:05:00,12/19/2016 19:17,Business,Islamabad,Unknown Location,2.2,,Short Trip,2020,Short Trip
+1070,2016-12-19 19:55:00,12/19/2016 20:30,Business,Unknown Location,Unknown Location,11.0,Meeting,Long Trip,2020,Long Trip
+1071,2016-12-20 08:49:00,12/20/2016 9:24,Business,Unknown Location,Rawalpindi,12.0,,Long Trip,2020,Long Trip
+1072,2016-12-20 10:30:00,12/20/2016 10:48,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,Short Trip,2020,Short Trip
+1073,2016-12-20 11:30:00,12/20/2016 12:17,Business,Rawalpindi,Unknown Location,19.4,Meeting,Long Trip,2020,Long Trip
+1074,2016-12-20 13:14:00,12/20/2016 13:20,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,Short Trip,2020,Short Trip
+1075,2016-12-20 13:54:00,12/20/2016 14:17,Business,Unknown Location,Islamabad,5.7,Temporary Site,Long Trip,2020,Medium Trip
+1076,2016-12-20 16:14:00,12/20/2016 16:24,Business,Islamabad,Islamabad,1.8,Errand/Supplies,Short Trip,2020,Short Trip
+1077,2016-12-20 16:56:00,12/20/2016 17:07,Business,Islamabad,Islamabad,1.4,Errand/Supplies,Short Trip,2020,Short Trip
+1078,2016-12-20 18:47:00,12/20/2016 19:21,Business,Islamabad,Unknown Location,10.3,Customer Visit,Long Trip,2020,Long Trip
+1079,2016-12-21 07:42:00,12/21/2016 8:10,Business,Unknown Location,Unknown Location,11.5,Meeting,Long Trip,2020,Long Trip
+1080,2016-12-21 10:14:00,12/21/2016 10:30,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,Short Trip,2020,Short Trip
+1081,2016-12-21 11:35:00,12/21/2016 11:49,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,Short Trip,2020,Short Trip
+1082,2016-12-21 12:51:00,12/21/2016 13:33,Business,Unknown Location,Unknown Location,16.2,Meeting,Long Trip,2020,Long Trip
+1083,2016-12-21 15:38:00,12/21/2016 15:49,Business,Unknown Location,Unknown Location,2.0,Errand/Supplies,Short Trip,2020,Short Trip
+1084,2016-12-21 15:55:00,12/21/2016 16:05,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,Short Trip,2020,Short Trip
+1085,2016-12-21 17:45:00,12/21/2016 17:54,Business,Islamabad,Islamabad,2.1,Meeting,Short Trip,2020,Short Trip
+1086,2016-12-21 17:59:00,12/21/2016 18:31,Business,Islamabad,Unknown Location,7.2,Customer Visit,Long Trip,2020,Medium Trip
+1087,2016-12-21 19:49:00,12/21/2016 20:35,Business,Unknown Location,Rawalpindi,12.0,Meeting,Long Trip,2020,Long Trip
+1088,2016-12-21 20:56:00,12/21/2016 23:42,Business,Rawalpindi,Unknown Location,103.0,Meeting,Long Trip,2020,Long Trip
+1089,2016-12-22 15:40:00,12/22/2016 16:38,Business,Unknown Location,Unknown Location,32.3,Meeting,Long Trip,2020,Long Trip
+1090,2016-12-22 17:04:00,12/22/2016 17:20,Business,Unknown Location,Unknown Location,5.3,Customer Visit,Long Trip,2020,Medium Trip
+1091,2016-12-22 17:27:00,12/22/2016 17:53,Business,Unknown Location,Unknown Location,11.6,Meeting,Long Trip,2020,Long Trip
+1092,2016-12-22 17:56:00,12/22/2016 18:29,Business,Unknown Location,Unknown Location,23.2,Meeting,Long Trip,2020,Long Trip
+1093,2016-12-22 18:31:00,12/22/2016 18:37,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,Short Trip,2020,Short Trip
+1094,2016-12-22 18:38:00,12/22/2016 18:47,Business,Unknown Location,Unknown Location,12.3,Temporary Site,Long Trip,2020,Long Trip
+1095,2016-12-22 19:04:00,12/22/2016 19:50,Business,Unknown Location,Lahore,14.0,Meeting,Long Trip,2020,Long Trip
+1096,2016-12-22 21:41:00,12/22/2016 21:53,Business,Lahore,Lahore,2.1,Meal/Entertain,Short Trip,2020,Short Trip
+1097,2016-12-22 23:27:00,12/22/2016 23:32,Business,Lahore,Lahore,2.1,Customer Visit,Short Trip,2020,Short Trip
+1098,2016-12-23 09:21:00,12/23/2016 9:41,Business,Lahore,Lahore,3.0,Meeting,Short Trip,2020,Short Trip
+1099,2016-12-23 11:33:00,12/23/2016 11:58,Business,Lahore,Unknown Location,6.2,Meeting,Long Trip,2020,Medium Trip
+1100,2016-12-23 14:15:00,12/23/2016 15:25,Business,Unknown Location,Unknown Location,9.6,Meeting,Long Trip,2020,Medium Trip
+1101,2016-12-23 16:23:00,12/23/2016 16:34,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,Short Trip,2020,Short Trip
+1102,2016-12-23 17:34:00,12/23/2016 18:27,Business,Unknown Location,Lahore,7.1,Meal/Entertain,Long Trip,2020,Medium Trip
+1103,2016-12-24 07:43:00,12/24/2016 8:04,Business,Lahore,Unknown Location,6.3,Meal/Entertain,Long Trip,2020,Medium Trip
+1104,2016-12-24 09:19:00,12/24/2016 9:55,Business,Unknown Location,Lahore,10.7,Meal/Entertain,Long Trip,2020,Long Trip
+1105,2016-12-24 10:34:00,12/24/2016 10:53,Business,Lahore,Lahore,5.3,Meal/Entertain,Long Trip,2020,Medium Trip
+1106,2016-12-24 12:51:00,12/24/2016 12:53,Business,Lahore,Lahore,1.6,Errand/Supplies,Short Trip,2020,Short Trip
+1107,2016-12-24 13:08:00,12/24/2016 13:29,Business,Lahore,Lahore,3.6,Errand/Supplies,Short Trip,2020,Short Trip
+1108,2016-12-24 17:12:00,12/24/2016 17:27,Business,Lahore,Lahore,1.7,Errand/Supplies,Short Trip,2020,Short Trip
+1109,2016-12-24 19:12:00,12/24/2016 19:27,Business,Lahore,Lahore,2.9,Meal/Entertain,Short Trip,2020,Short Trip
+1110,2016-12-24 22:04:00,12/24/2016 22:09,Business,Lahore,Lahore,0.6,Errand/Supplies,Short Trip,2020,Short Trip
+1111,2016-12-25 00:10:00,12/25/2016 0:14,Business,Lahore,Lahore,0.6,Errand/Supplies,Short Trip,2020,Short Trip
+1112,2016-12-25 19:15:00,12/25/2016 19:26,Business,Lahore,Lahore,2.3,Meal/Entertain,Short Trip,2020,Short Trip
+1113,2016-12-25 21:58:00,12/25/2016 22:04,Business,Lahore,Lahore,2.3,Meal/Entertain,Short Trip,2020,Short Trip
+1114,2016-12-26 08:30:00,12/26/2016 8:41,Business,Lahore,Lahore,3.2,Meal/Entertain,Short Trip,2020,Short Trip
+1115,2016-12-26 09:05:00,12/26/2016 9:19,Business,Lahore,Lahore,6.2,Customer Visit,Long Trip,2020,Medium Trip
+1116,2016-12-26 10:15:00,12/26/2016 10:36,Business,Lahore,Lahore,7.7,Customer Visit,Long Trip,2020,Medium Trip
+1117,2016-12-26 11:29:00,12/26/2016 11:42,Business,Lahore,Lahore,3.8,Customer Visit,Short Trip,2020,Short Trip
+1118,2016-12-26 13:09:00,12/26/2016 13:43,Business,Lahore,Unknown Location,7.9,Meeting,Long Trip,2020,Medium Trip
+1119,2016-12-27 07:02:00,12/27/2016 7:14,Business,Kar?chi,Kar?chi,4.9,Temporary Site,Short Trip,2020,Short Trip
+1120,2016-12-27 08:37:00,12/27/2016 8:59,Business,Kar?chi,Kar?chi,5.0,Meal/Entertain,Short Trip,2020,Medium Trip
+1121,2016-12-27 12:53:00,12/27/2016 12:57,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain,Short Trip,2020,Short Trip
+1122,2016-12-27 14:49:00,12/27/2016 15:03,Business,Kar?chi,Unknown Location,3.1,Customer Visit,Short Trip,2020,Short Trip
+1123,2016-12-27 16:34:00,12/27/2016 16:58,Business,Unknown Location,Kar?chi,7.9,Meeting,Long Trip,2020,Medium Trip
+1124,2016-12-27 19:19:00,12/27/2016 19:50,Business,Kar?chi,Kar?chi,5.5,Customer Visit,Long Trip,2020,Medium Trip
+1125,2016-12-28 08:34:00,12/28/2016 9:06,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain,Long Trip,2020,Long Trip
+1126,2016-12-28 11:42:00,12/28/2016 12:12,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies,Long Trip,2020,Long Trip
+1127,2016-12-28 13:53:00,12/28/2016 14:01,Business,Kar?chi,Kar?chi,2.0,Errand/Supplies,Short Trip,2020,Short Trip
+1128,2016-12-28 15:04:00,12/28/2016 15:39,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain,Long Trip,2020,Medium Trip
+1129,2016-12-28 17:02:00,12/28/2016 17:16,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies,Short Trip,2020,Short Trip
+1130,2016-12-28 18:33:00,12/28/2016 18:56,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,Short Trip,2020,Short Trip
+1131,2016-12-28 22:44:00,12/28/2016 23:18,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies,Long Trip,2020,Medium Trip
+1132,2016-12-29 00:49:00,12/29/2016 1:06,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,Short Trip,2020,Short Trip
+1133,2016-12-29 09:44:00,12/29/2016 10:07,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain,Long Trip,2020,Long Trip
+1134,2016-12-29 11:28:00,12/29/2016 12:00,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain,Long Trip,2020,Long Trip
+1135,2016-12-29 12:25:00,12/29/2016 12:33,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies,Short Trip,2020,Short Trip
+1136,2016-12-29 13:17:00,12/29/2016 13:24,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies,Short Trip,2020,Short Trip
+1137,2016-12-29 13:56:00,12/29/2016 14:11,Business,Kar?chi,Kar?chi,4.1,Airport/Travel,Short Trip,2020,Short Trip
+1138,2016-12-29 14:42:00,12/29/2016 14:58,Business,Kar?chi,Kar?chi,6.1,Between Offices,Long Trip,2020,Medium Trip
+1139,2016-12-29 15:05:00,12/29/2016 15:16,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies,Short Trip,2020,Short Trip
+1140,2016-12-29 18:59:00,12/29/2016 19:14,Business,Kar?chi,Unknown Location,3.0,Meal/Entertain,Short Trip,2020,Short Trip
+1141,2016-12-29 19:50:00,12/29/2016 20:10,Business,Unknown Location,Kar?chi,4.1,Customer Visit,Short Trip,2020,Short Trip
+1142,2016-12-29 20:15:00,12/29/2016 20:45,Business,Kar?chi,Kar?chi,7.2,Meeting,Long Trip,2020,Medium Trip
+1143,2016-12-29 20:53:00,12/29/2016 21:42,Business,Kar?chi,Unknown Location,6.4,,Long Trip,2020,Medium Trip
+1144,2016-12-29 23:14:00,12/29/2016 23:47,Business,Unknown Location,Kar?chi,12.9,Meeting,Long Trip,2020,Long Trip
+1145,2016-12-30 10:15:00,12/30/2016 10:33,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies,Short Trip,2020,Short Trip
+1146,2016-12-30 11:31:00,12/30/2016 11:56,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies,Short Trip,2020,Short Trip
+1147,2016-12-30 15:41:00,12/30/2016 16:03,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies,Short Trip,2020,Short Trip
+1148,2016-12-30 16:45:00,12/30/2016 17:08,Business,Kar?chi,Kar?chi,4.6,Meeting,Short Trip,2020,Short Trip
+1149,2016-12-30 23:06:00,12/30/2016 23:10,Business,Kar?chi,Kar?chi,0.8,Customer Visit,Short Trip,2020,Short Trip
+1150,2016-12-31 01:07:00,12/31/2016 1:14,Business,Kar?chi,Kar?chi,0.7,Meeting,Short Trip,2020,Short Trip
+1151,2016-12-31 13:24:00,12/31/2016 13:42,Business,Kar?chi,Unknown Location,3.9,Temporary Site,Short Trip,2020,Short Trip
+1152,2016-12-31 15:03:00,12/31/2016 15:38,Business,Unknown Location,Unknown Location,16.2,Meeting,Long Trip,2020,Long Trip
+1153,2016-12-31 21:32:00,12/31/2016 21:50,Business,Katunayake,Gampaha,6.4,Temporary Site,Long Trip,2020,Medium Trip
+1154,2016-12-31 22:08:00,12/31/2016 23:51,Business,Gampaha,Ilukwatta,48.2,Temporary Site,Long Trip,2020,Long Trip
+1155,,,,,,12204.7,,Long Trip,2020,Long Trip
